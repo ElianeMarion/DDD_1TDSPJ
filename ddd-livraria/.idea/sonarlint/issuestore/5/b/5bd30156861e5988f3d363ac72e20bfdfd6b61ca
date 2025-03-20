@@ -1,0 +1,11 @@
+
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "mensagem".(§»²úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ğÔ´¼
+@	java:S106"+Replace this use of System.out by a logger.(²İ¨¦
+@	java:S106"+Replace this use of System.out by a logger.(ùŸô¹
+E	java:S106"+Replace this use of System.out by a logger.(„Šì¤ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»†ÚŠüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(É¿ª
+E	java:S106"+Replace this use of System.out by a logger.(Ù³Èˆıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ô´¤‡ıÿÿÿÿ
