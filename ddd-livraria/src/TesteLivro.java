@@ -18,11 +18,11 @@ public class TesteLivro {
         meuLivro.editora = novatec;
         meuLivro.preco = 50;
         meuLivro.paginas = 484;
-        meuLivro.tipoCapa = TipoCapaEnum.DURA;
+       // meuLivro.tipoCapa = TipoCapaEnum.DURA;
         meuLivro.resumo = "UML abordagem prática....";
         meuLivro.exibirLivro();
 
-        Livro livroDaGiovanna = new Livro();
+        Livro livroDaGiovanna = new Livro(novatec);
         livroDaGiovanna.titulo = "Harry Potter e a pedra filosofal";
         livroDaGiovanna.autor = "J K ";
 
