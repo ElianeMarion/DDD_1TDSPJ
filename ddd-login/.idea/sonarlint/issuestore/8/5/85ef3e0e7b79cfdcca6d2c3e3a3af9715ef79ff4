@@ -1,0 +1,13 @@
+
+“
+java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8ìÎõÀİ2J$830c0213-5d36-4323-9b48-ce27944b98d6
+™
+java:S1104"QMake senha a static final constant or non-public and provide accessors if needed.(…‡İ£úÿÿÿÿ8ìÎõÀİ2J$7557f01e-d693-4c7d-9b3c-e6195ed91638
+Ÿ
+java:S1104"\Make tentativasAcesso a static final constant or non-public and provide accessors if needed.(ã­ğ8ìÎõÀİ2J$5c039fde-c541-4390-a6e9-8d9bdc54bda1
+
+java:S1104"ZMake primeiroAcesso a static final constant or non-public and provide accessors if needed.(–‚¶Í8ìÎõÀİ2J$3c6c02e8-3400-4380-8783-da24ac59420e
+•
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(½‡ÑÆ8ìÎõÀİ2J$ff9ab483-225f-4d1c-9e4e-86fa0b2367e6
+u
+java:S1068	"2Remove this unused "dataInativacao" private field.(‚‘ÛÌ8òÎõÀİ2J$81ec5daf-d2c0-4425-93fb-e2fd4b3fc590
