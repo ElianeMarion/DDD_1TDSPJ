@@ -11,3 +11,5 @@ E
 src/Editora.java,a\1\a16dee05d1593b50fb6daaf685c5188ab07c91f2
 E
 src/TipoCapaEnum.java,2\b\2b82412b51fc0a706feca094caae3f7e6a9b4db6
+E
+src/TesteEditora.java,7\e\7ebff7fe54b62415542a48a4e3b6edc7659b7857

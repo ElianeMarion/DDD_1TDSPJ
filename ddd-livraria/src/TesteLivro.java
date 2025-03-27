@@ -39,5 +39,8 @@ public class TesteLivro {
         else
             livro.tipoCapa = TipoCapaEnum.PERSONALIZADA;
 
+
+        Livro livroTeste = new Livro("titulo", "autor", 289,
+                novatec, 200,"resumo",TipoCapaEnum.DURA );
     }
 }

@@ -1,6 +1,11 @@
 
-}	java:S125"<This block of commented-out lines of code should be removed.(ğ¸ÙN8ƒˆÇ Û2J$d09a8474-2dc5-4ef7-a73c-919745ba2db9
-r	java:S106"+Replace this use of System.out by a logger.(ª¯Èıÿÿÿÿ8‡ˆÇ Û2J$55d99391-6bbf-4260-886e-0d9d9eb61cec
-r	java:S106 "+Replace this use of System.out by a logger.(¨ÉÃ±øÿÿÿÿ8‡ˆÇ Û2J$50787029-3651-4e76-9e98-42a16bcb5876
+†
+java:S1854+">Remove this useless assignment to local variable "livroTeste".(ôêßùÿÿÿÿ8ÖÅÒ¾İ2J$13293d72-155f-46a3-8e0e-87df17169705
+}	java:S125"<This block of commented-out lines of code should be removed.(ğ¸ÙN8ÛÅÒ¾İ2J$2cb63a5e-df7f-4970-9bce-3f2af3750d66
+~	java:S125"<This block of commented-out lines of code should be removed.(ûˆ‹â8İÅÒ¾İ2J$6eb68107-4116-4de7-974e-cda7f76d1e4f
+r	java:S106"+Replace this use of System.out by a logger.(ª¯Èıÿÿÿÿ8ßÅÒ¾İ2J$dbb07fce-01a0-4729-bd0c-061c8e48b7d4
+r	java:S106 "+Replace this use of System.out by a logger.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$badf7cc1-de4a-4935-b2e9-95e9a41d7df8
 z
-java:S6126 "2Replace this String concatenation with Text block.(¨ÉÃ±øÿÿÿÿ8ˆˆÇ Û2J$d9fbc111-7103-454c-8875-afd29ae3b353
+java:S6126 "2Replace this String concatenation with Text block.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$991b514a-c394-49ab-899f-0b5ec9db6506
+w
+java:S1481+"/Remove this unused "livroTeste" local variable.(ôêßùÿÿÿÿ8ãÅÒ¾İ2J$b9be51c0-fc5f-430a-8571-7aa1c640963d
