@@ -1,3 +1,7 @@
+package br.com.fiap.tests;
+
+import br.com.fiap.models.Receita;
+
 public class TesteReceita {
     public static void main(String[] args) {
         //Instanciar um objeto = Criar o objeto
@@ -32,7 +36,7 @@ public class TesteReceita {
 
 /*
         System.out.println(boloFuba.tempoPreparo + " endereço " + boloFuba);
-        Receita boloFubaEliane = new Receita();
+        br.com.fiap.models.Receita boloFubaEliane = new br.com.fiap.models.Receita();
         boloFubaEliane.tempoPreparo = 50;
         System.out.println(boloFuba.tempoPreparo + " "
                 + boloFubaEliane.tempoPreparo +

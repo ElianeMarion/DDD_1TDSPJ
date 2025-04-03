@@ -1,16 +1,18 @@
+package br.com.fiap.models;
+
 public class Receita {
-    String nomeReceita;
-    String autorReceita;
-    String dificuldade;
-    int tempoPreparo;
-    int porcoes;
-    String descricao;
-    String ingredientes;
-    String modoPreparo;
+    public String nomeReceita;
+    public String autorReceita;
+    public String dificuldade;
+    public int tempoPreparo;
+    public int porcoes;
+    public String descricao;
+    public String ingredientes;
+    public String modoPreparo;
 
     //Método sem retorno
     public void exibirReceita(){
-        System.out.println("Receita de " + nomeReceita);
+        System.out.println("br.com.fiap.models.Receita de " + nomeReceita);
         System.out.println("===========================");
         System.out.println("Publicado por: " + autorReceita);
         System.out.println("Dificuldade\t\tTempo de preparo\tPorções");
@@ -22,7 +24,7 @@ public class Receita {
 
     //Método com retorno
     public String exibirReceita2(){
-        String mensagem = "Receita de " + nomeReceita +
+        String mensagem = "br.com.fiap.models.Receita de " + nomeReceita +
                 "\n===========================" +
                 "\nPublicado por: " + autorReceita +
                 "\nDificuldade\t\tTempo de preparo\tPorções" +

@@ -13,3 +13,17 @@ E
 src/TipoCapaEnum.java,2\b\2b82412b51fc0a706feca094caae3f7e6a9b4db6
 E
 src/TesteEditora.java,7\e\7ebff7fe54b62415542a48a4e3b6edc7659b7857
+S
+#src/br/com/fiap/models/Editora.java,f\6\f62c8ad7cce3cfca86d31d9ce497da5ff7937a08
+Q
+!src/br/com/fiap/models/Livro.java,2\a\2ab104fa2498ce283864e423265d9c358cf17ad8
+W
+'src/br/com/fiap/tests/TesteEditora.java,4\a\4a193c52043eba4011ac11df30f78d75c5764874
+U
+%src/br/com/fiap/tests/TesteLivro.java,1\0\10585206fafbc43246ff45c5fef670d0e5e522bb
+W
+'src/br/com/fiap/enums/TipoCapaEnum.java,d\7\d7d20f86d5a566a84e7c24861c4fa1549cfae11c
+W
+'src/br/com/fiap/tests/TesteReceita.java,f\9\f97ebf55dc3d8c31d15b0b9072f15d6f5f243a2e
+S
+#src/br/com/fiap/models/Receita.java,e\c\ecbabb2f3ccc6abe16e126739bb8c2b367699be5

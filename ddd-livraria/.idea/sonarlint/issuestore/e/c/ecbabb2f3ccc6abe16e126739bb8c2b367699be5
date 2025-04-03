@@ -1,0 +1,28 @@
+
+œ
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "mensagem".(ÃÀ‹‚J$b939c9d7-9ee0-4ee7-af06-32c31c6d397f
+š
+java:S1104"WMake nomeReceita a static final constant or non-public and provide accessors if needed.(ä½ğÚ8ÚÁ•áß2J$6216522b-78e5-4123-a011-3435dd2b923c
+ 
+java:S1104"XMake autorReceita a static final constant or non-public and provide accessors if needed.(´€Õùÿÿÿÿ8ëÚ•áß2J$c968f209-6dba-4076-8a33-3e170dce4b51
+Ÿ
+java:S1104"WMake dificuldade a static final constant or non-public and provide accessors if needed.(³ÚóÔúÿÿÿÿ8Ş‘–áß2J$1706649a-4944-40bb-96a5-c6eed15e53f3
+z
+java:S1104"XMake tempoPreparo a static final constant or non-public and provide accessors if needed.(ºº¦şÿÿÿÿ8êË–áß2
+p
+java:S1104"SMake porcoes a static final constant or non-public and provide accessors if needed.(ŞäÄò8êË–áß2
+w
+java:S1104	"UMake descricao a static final constant or non-public and provide accessors if needed.(…§‡‰úÿÿÿÿ8êË–áß2
+z
+java:S1104
+"XMake ingredientes a static final constant or non-public and provide accessors if needed.(Ûƒª¾ÿÿÿÿÿ8ëË–áß2
+y
+java:S1104"WMake modoPreparo a static final constant or non-public and provide accessors if needed.(ä§»ûÿÿÿÿ8ëË–áß2
+k	java:S106"+Replace this use of System.out by a logger.(ÈÖô´ûÿÿÿÿJ$53eeeee0-283a-4274-8b95-10b84471ce74
+f	java:S106"+Replace this use of System.out by a logger.(²İ¨¦J$a18ff661-a748-46d2-847e-a984cd7f45f7
+f	java:S106"+Replace this use of System.out by a logger.(ùŸô¹J$92249816-111e-4e54-8610-13c68eabffa1
+k	java:S106"+Replace this use of System.out by a logger.(„Šì¤ûÿÿÿÿJ$3b993de5-bc7c-4f73-9cb2-974a2d5ca345
+k	java:S106"+Replace this use of System.out by a logger.(»†ÚŠüÿÿÿÿJ$1ea02de2-dae9-4c11-ae61-ef3b3818b202
+f	java:S106"+Replace this use of System.out by a logger.(É¿ªJ$e042c16f-5c7d-4827-b75c-f3251a86528c
+k	java:S106"+Replace this use of System.out by a logger.(Ù³ÈˆıÿÿÿÿJ$cf3bef81-2e14-4b50-8b93-1e186b4e3363
+k	java:S106"+Replace this use of System.out by a logger.(ô´¤‡ıÿÿÿÿJ$f2fe2d11-2bc8-4410-9663-e94c912135fc

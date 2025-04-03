@@ -1,0 +1,8 @@
+
+“
+java:S1104"PMake site a static final constant or non-public and provide accessors if needed.(âû¡¦8Âëáß2J$5faa0eb7-c9fb-4f91-8257-ad424751e9f1
+–
+java:S1104"TMake telefone a static final constant or non-public and provide accessors if needed.(º­Ş8š†áß2J$6ef53d2a-31b0-4dee-a3c0-6e455ada8764
+r	java:S106"+Replace this use of System.out by a logger.(ªç›ãÿÿÿÿÿ8§»§¾İ2J$d6be9fcb-6f41-48ee-b865-86a1f3a26118
+m	java:S106"+Replace this use of System.out by a logger.(ÜÇÚß8¨»§¾İ2J$bae42745-0829-4a0b-a1fe-f1e54b177465
+r	java:S106"+Replace this use of System.out by a logger.(”½±Ğùÿÿÿÿ8©»§¾İ2J$9fa0ff8c-68f3-468f-9928-35d4f95743ed

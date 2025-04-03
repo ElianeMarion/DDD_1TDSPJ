@@ -1,10 +1,16 @@
+package br.com.fiap.tests;
+
+import br.com.fiap.enums.TipoCapaEnum;
+import br.com.fiap.models.Editora;
+import br.com.fiap.models.Livro;
+
 import java.util.Scanner;
 
 public class TesteLivro {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Scanner leitorNumerico = new Scanner(System.in);
-        //Criando um objeto do tipo Editora chamado novatec
+        //Criando um objeto do tipo br.com.fiap.models.Editora chamado novatec
         Editora novatec = new Editora();
         novatec.nome = "Novatec";
         novatec.site = "www.novatec.com";
@@ -18,7 +24,7 @@ public class TesteLivro {
         meuLivro.editora = novatec;
         meuLivro.preco = 50;
         meuLivro.paginas = 484;
-       // meuLivro.tipoCapa = TipoCapaEnum.DURA;
+       // meuLivro.tipoCapa = br.com.fiap.enums.TipoCapaEnum.DURA;
         meuLivro.resumo = "UML abordagem prática....";
         meuLivro.exibirLivro();
 
