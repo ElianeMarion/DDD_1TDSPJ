@@ -18,7 +18,7 @@ public class Anime {
     a tabela abaixo, considere o texto em negrito: (LIVRE PARA TODOS OS
     PÚBLICOS; NÃO RECOMENDADO PARA MENORES DE 10 ANOS)
     * */
-    public String exibirClassificacao(){
+    private String exibirClassificacao(){
         if(classificacaoIndicativa == 10){
             return "NÃO RECOMENDADO PARA MENORES DE 10 ANOS";
         }else if(classificacaoIndicativa == 12){

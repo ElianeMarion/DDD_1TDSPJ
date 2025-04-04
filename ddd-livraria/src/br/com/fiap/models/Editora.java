@@ -2,9 +2,32 @@ package br.com.fiap.models;
 
 public class Editora {
     private String nome;
-    public String site;
-    public String telefone;
+    private String site;
+    private String telefone;
 
+    //Métodos getters e setters
+    public String getNome(){
+        return nome;
+    }
+    public void setNome(String nome){
+        this.nome = nome;
+    }
+
+    public String getSite() {
+        return site;
+    }
+
+    public void setSite(String site) {
+        this.site = site;
+    }
+
+    public String getTelefone() {
+        return telefone;
+    }
+
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
+    }
     /*
     * Construtor -> descrever como o objeto será criado
     * Deve ter obrigatoriamente o nome da classe
