@@ -1,23 +1,8 @@
 
-š
-java:S1104"RMake titulo a static final constant or non-public and provide accessors if needed.(˜±šÿÿÿÿÿ8…ä’áß2J$d16743d0-64a6-46c3-9692-7b5223095749
-”
-java:S1104	"QMake autor a static final constant or non-public and provide accessors if needed.(Æ§¿í8½½“áß2J$c46d48c2-9985-4d63-b79f-8beec1e12e22
-”
-java:S1104
-"QMake preco a static final constant or non-public and provide accessors if needed.(åüØà8½½“áß2J$98a6a600-fb25-44f6-b3b0-3b68caa946f9
-›
-java:S1104"SMake editora a static final constant or non-public and provide accessors if needed.(¹¤ö‚úÿÿÿÿ8ú€”áß2J$93b0071b-61dc-452b-b2a2-d6ae61f3b2e2
-–
-java:S1104"SMake paginas a static final constant or non-public and provide accessors if needed.(ñÔ¢§8é¬”áß2J$4507c038-ab04-4197-b754-ad7f4e23c06b
-•
-java:S1104"RMake resumo a static final constant or non-public and provide accessors if needed.(¬‚ø8é¬”áß2J$fcd49884-cc58-47af-9497-7d612b3b9d50
-œ
-java:S1104"TMake tipoCapa a static final constant or non-public and provide accessors if needed.(­—Ø­üÿÿÿÿ8é¬”áß2J$aff14bf9-5af1-4165-abae-b61d6d981a60
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8¨®ùŸÛ2J$d91f202a-c74b-42ca-b390-40f52b6a4026
-r	java:S106/"+Replace this use of System.out by a logger.(¢ç¶·ıÿÿÿÿ8«®ùŸÛ2J$247e5890-63d7-4e7a-bb98-a08a017201d4
-r	java:S1060"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8¬®ùŸÛ2J$e37d296d-0012-4154-b362-1b220c3acbab
-r	java:S1061"+Replace this use of System.out by a logger.(×ÛÖúûÿÿÿÿ8­®ùŸÛ2J$5e005da2-3e48-48e3-bd97-ccab15d93e40
-r	java:S1062"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8­®ùŸÛ2J$f20544c8-2aec-4063-add9-8b67ddfe0b83
-m	java:S1063"+Replace this use of System.out by a logger.(†ÕÓ÷8­®ùŸÛ2J$585ec81c-194d-414d-8f50-1bdc03328e66
-m	java:S1064"+Replace this use of System.out by a logger.(¹æšÍ8­®ùŸÛ2J$08746ccc-73f5-4620-9315-8d8976212b68
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8ößÈ€â2J$3e9561b0-ffd5-4072-a252-a65f5c31a30c
+m	java:S106m"+Replace this use of System.out by a logger.(Ñ›¾¢8€àÈ€â2J$1efecd4a-7ae8-4993-ae53-7a150fb5fc30
+r	java:S106n"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8àÈ€â2J$4e9e1bec-2c6a-45c3-af20-6ab65cdf8fa5
+m	java:S106o"+Replace this use of System.out by a logger.(Õ—±8‚àÈ€â2J$2fd69aba-0301-41a4-b583-b95a15378e6f
+r	java:S106p"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8‚àÈ€â2J$4031dacc-53a6-4b19-a122-1c03e3a0dc45
+m	java:S106q"+Replace this use of System.out by a logger.(†ÕÓ÷8ƒàÈ€â2J$7a2578bc-7e3b-4533-a37e-3d865458042a
+m	java:S106r"+Replace this use of System.out by a logger.(¹æšÍ8ƒàÈ€â2J$cea48f2a-c02f-4a50-9e5b-c758ab9fb0a9

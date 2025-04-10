@@ -5,7 +5,7 @@ import br.com.fiap.enums.TipoCapaEnum;
 
 public class Livro {
     //Atributo tipo nomeAtributo;
-    private String titulo;
+    protected String titulo;
     private String autor;
     private  double preco;
     private Editora editora;
@@ -13,6 +13,12 @@ public class Livro {
     private String resumo;
     private TipoCapaEnum tipoCapa; //COMUM, DURA, PERSONALIZADA
 
+    //+ aplicarDesconto(taxa: double): double
+    public double aplicarDesconto(double taxa){
+        if(preco > 50)
+            return preco - preco * taxa / 100;
+        return preco;
+    }
     public String getTitulo() {
         return titulo;
     }
@@ -100,7 +106,7 @@ public class Livro {
 
     //Método para exibir o livro
     public void exibirLivro(){
-        System.out.println("br.com.fiap.models.Livro: " + titulo);
+        System.out.println("Livro: " + titulo);
         System.out.println("Autor: " + autor);
         System.out.println("Editora: " + editora.getNome());
         System.out.println("Preço: " + preco);

@@ -1,18 +1,4 @@
 
->
-src/Livro.java,7\a\7a691ad67a83ac177bb68a623a61ceab0bcbd26d
-C
-src/TesteLivro.java,0\4\04aa3bf2c04a4be6e8438302f1feef6d8e6d009c
-E
-src/TesteReceita.java,9\3\934d95680608d516ddf17a78a62bb43815986d81
-@
-src/Receita.java,5\b\5bd30156861e5988f3d363ac72e20bfdfd6b61ca
-@
-src/Editora.java,a\1\a16dee05d1593b50fb6daaf685c5188ab07c91f2
-E
-src/TipoCapaEnum.java,2\b\2b82412b51fc0a706feca094caae3f7e6a9b4db6
-E
-src/TesteEditora.java,7\e\7ebff7fe54b62415542a48a4e3b6edc7659b7857
 S
 #src/br/com/fiap/models/Editora.java,f\6\f62c8ad7cce3cfca86d31d9ce497da5ff7937a08
 Q
@@ -27,3 +13,11 @@ W
 'src/br/com/fiap/tests/TesteReceita.java,f\9\f97ebf55dc3d8c31d15b0b9072f15d6f5f243a2e
 S
 #src/br/com/fiap/models/Receita.java,e\c\ecbabb2f3ccc6abe16e126739bb8c2b367699be5
+W
+'src/br/com/fiap/models/LivroFisico.java,9\2\9236307edf79364352dd57f7e0336c50883b7b87
+[
++src/br/com/fiap/tests/TesteLivroFisico.java,3\2\32e96e4c481be6446c15cbe7a07ba3cb53c580ee
+X
+(src/br/com/fiap/models/LivroDigital.java,0\2\020d36942f29d0c763033fe2d0e7a88ea4e1bdbb
+\
+,src/br/com/fiap/tests/TesteLivroDigital.java,7\5\752c020e07980d34c7d9ecf7ca333e6fadeda150
