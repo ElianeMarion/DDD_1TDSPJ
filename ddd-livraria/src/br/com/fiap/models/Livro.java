@@ -3,6 +3,9 @@ package br.com.fiap.models;
 
 import br.com.fiap.enums.TipoCapaEnum;
 
+import java.time.LocalDateTime;
+import java.util.Random;
+
 public class Livro {
     //Atributo tipo nomeAtributo;
     protected String titulo;
