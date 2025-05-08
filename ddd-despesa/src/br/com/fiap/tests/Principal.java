@@ -2,6 +2,7 @@ package br.com.fiap.tests;
 
 import br.com.fiap.models.Alimentacao;
 import br.com.fiap.models.Diaria;
+import br.com.fiap.models.GerenciadorDespesas;
 import br.com.fiap.models.Transporte;
 
 import java.util.Scanner;
@@ -22,6 +23,7 @@ public class Principal {
         Alimentacao alimentacao = new Alimentacao();
         Transporte transporte = new Transporte();
         Diaria diaria = new Diaria();
+        GerenciadorDespesas gerenciador = new GerenciadorDespesas();
 
         do{
             System.out.println("Digite a opção desejada" +
@@ -40,11 +42,12 @@ public class Principal {
                             case 1 -> alimentacao.cadastrarDespesa();
                             case 2 -> alimentacao.calcularDespesa();
                             case 3 -> alimentacao.listarDespesa();
-
+                            case 4 -> gerenciador.analisarDespesa(alimentacao);
                         }
                     }while (opSub != 0);
                 }
             }
         }while(op != 0);
+        System.out.println("Despesa total da viagem: R$ " + gerenciador.getTotalDespesa());
     }
 }

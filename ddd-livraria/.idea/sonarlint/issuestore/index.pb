@@ -23,3 +23,7 @@ X
 ,src/br/com/fiap/tests/TesteLivroDigital.java,7\5\752c020e07980d34c7d9ecf7ca333e6fadeda150
 T
 $src/br/com/fiap/tests/Principal.java,8\4\848a6e9c46f46776d062490c6a458d042be5a2c7
+T
+$src/br/com/fiap/models/Carrinho.java,0\b\0b176b8c1768c5aa853c544f00bc6ed27e52f027
+V
+&src/br/com/fiap/models/LivroBolso.java,7\3\7320aaa6286d14137ff296cc8f38401f7d1651f6

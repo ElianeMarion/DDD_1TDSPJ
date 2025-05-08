@@ -3,6 +3,14 @@ package br.com.fiap.models;
 public class LivroDigital extends Livro{
     private boolean audioLivro;
 
+    public boolean isAudioLivro() {
+        return audioLivro;
+    }
+
+    public void setAudioLivro(boolean audioLivro) {
+        this.audioLivro = audioLivro;
+    }
+
     public LivroDigital(Editora editora) {
         super(editora);
     }

@@ -1,0 +1,26 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ÊáÁ¥8ÿœ†ƒë2
+O
+java:S6126"2Replace this String concatenation with Text block.(ÊáÁ¥8€†ƒë2
+\
+java:S1854":Remove this useless assignment to local variable "diaria".(ÛüñÀøÿÿÿÿ8‚†ƒë2
+[
+java:S1854">Remove this useless assignment to local variable "transporte".(Øï’³8‚†ƒë2
+\
+java:S1854":Remove this useless assignment to local variable "leitor".(¦¿æºÿÿÿÿÿ8‚†ƒë2
+@
+java:S1659"#Declare "opSub" on a separate line.(’Æ€Š8ƒ†ƒë2
+M
+java:S1481"+Remove this unused "leitor" local variable.(¦¿æºÿÿÿÿÿ8‡†ƒë2
+L
+java:S1481"/Remove this unused "transporte" local variable.(Øï’³8‡†ƒë2
+M
+java:S1481"+Remove this unused "diaria" local variable.(ÛüñÀøÿÿÿÿ8‡†ƒë2
+G	java:S106"+Replace this use of System.out by a logger.(ÊáÁ¥8ˆ†ƒë2
+O
+java:S6126"2Replace this String concatenation with Text block.(ÊáÁ¥8ˆ†ƒë2
+C	java:S131$""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8‰†ƒë2
+m
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(õÙÆ‚úÿÿÿÿ8‰†ƒë2
+C	java:S131)""Add a default case to this switch.(«ú¼öùÿÿÿÿ8‰†ƒë2
+G	java:S1063"+Replace this use of System.out by a logger.(µá­¥8Š†ƒë2

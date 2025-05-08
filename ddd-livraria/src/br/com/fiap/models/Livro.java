@@ -107,12 +107,15 @@ public abstract class Livro {
         System.out.println("Autor: " + autor);
         System.out.println("Editora: " + editora.getNome());
         System.out.println("Preço: " + preco);
-        //System.out.println("Tipo de capa: " + tipoCapa);
+        exibirDetalhes();
         System.out.println("-------------------------------------\n");
     }
     public abstract void exibirDetalhes();
     public String exibirTipoCapa(){
         return "";
+    }
 
+    public boolean ehMaisCaroQue(Livro outroLivro){
+        return preco > outroLivro.preco;
     }
 }

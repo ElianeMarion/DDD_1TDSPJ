@@ -1,0 +1,17 @@
+
+@
+java:S3457"%String contains no format specifiers.(Ğ¯‡üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ğ¯‡üÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(¸¯ ÿÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸¯ ÿÿÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(„œ€øÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(„œ€øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„œ€øÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(£Ã·p
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(û•™Üÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(û•™Üÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Óµï·
