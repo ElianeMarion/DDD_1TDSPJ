@@ -1,13 +1,23 @@
 
+|
+java:S5993"9Change the visibility of this constructor to "protected".(¢ø—8—ªá€ë2J$9afafce6-3512-417f-b1e1-6ca6be196df0
+
+java:S5993R"9Change the visibility of this constructor to "protected".(õÄÛúÿÿÿÿ8˜ªá€ë2J$1ed59cb1-4e07-49e4-baf0-d22614437a7d
+
+java:S5993V"9Change the visibility of this constructor to "protected".(ô˜ıÿÿÿÿ8˜ªá€ë2J$80e7370f-2c94-4b47-a756-16739b449082
+|
+java:S5993b"9Change the visibility of this constructor to "protected".(òµÙâ8¥Üş€ë2J$84722246-bd0f-4ff0-8a32-66a9b539b627
 ƒ	java:S125
-"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8¹€ùâ2J$0dbdb3dd-90c0-4bce-b8c8-14dbf7a01bbb
-m	java:S106p"+Replace this use of System.out by a logger.(Ñ›¾¢8Ã€ùâ2J$757839cb-7607-452e-9218-68de5d96aef6
-r	java:S106q"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8Ã€ùâ2J$7ab6d8ed-1399-498c-8044-b71b391e3e30
-m	java:S106r"+Replace this use of System.out by a logger.(Õ—±8Ã€ùâ2J$a7cc2ed9-865d-41d8-a66e-6e01a1ac1817
-r	java:S106s"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8Ã€ùâ2J$ced02838-ad10-4801-93be-e72d450bdb9b
-m	java:S106t"+Replace this use of System.out by a logger.(†ÕÓ÷8Ä€ùâ2J$5d1396e0-13a2-4ee8-9cf0-c05be242fd1d
-m	java:S106u"+Replace this use of System.out by a logger.(¹æšÍ8Ä€ùâ2J$fab54776-b003-49cf-8d1f-52da912b7c3c
-V
-java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8¢ãûâ2
-O
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¢ãûâ2
+"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8¹€ùâ2J$bb5414d1-a8f4-4858-93d2-dfe17a4812bc
+m	java:S106j"+Replace this use of System.out by a logger.(Ñ›¾¢8Ã€ùâ2J$72f62c40-111f-4a61-ad57-464cbf1a0e26
+r	java:S106k"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8Ã€ùâ2J$97b0b03f-02e7-4612-aa66-ea4e4bb5a992
+m	java:S106l"+Replace this use of System.out by a logger.(Õ—±8Ã€ùâ2J$6024b7ee-260c-4cb5-bee5-7df8f7c9d42c
+r	java:S106m"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8Ã€ùâ2J$531aee62-b057-4123-90d5-cef56e2e7b4e
+m	java:S106o"+Replace this use of System.out by a logger.(¹æšÍ8Ä€ùâ2J$c15c1463-2d42-40f3-8979-32885ee69330
+~	java:S125n"<This block of commented-out lines of code should be removed.(áğÊ›8ìÅğ€ë2J$8bbb0368-a144-4b14-aa2e-d115e1e79671
+ƒ
+java:S1128";Remove this unused import 'br.com.fiap.enums.TipoCapaEnum'.(¸ˆƒÃûÿÿÿÿ8˜µõ€ë2J$8a35f447-12fd-411b-a613-f0e8f84304d4
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8˜œõ€ë2J$542c3f05-935e-4876-a24d-0868e46d4d4a
+u
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8™œõ€ë2J$8e20a6ed-02aa-408e-86b6-83b730ceb4e7

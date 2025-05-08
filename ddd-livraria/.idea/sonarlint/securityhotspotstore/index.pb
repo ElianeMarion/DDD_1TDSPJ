@@ -21,3 +21,5 @@ X
 (src/br/com/fiap/models/LivroDigital.java,0\2\020d36942f29d0c763033fe2d0e7a88ea4e1bdbb
 \
 ,src/br/com/fiap/tests/TesteLivroDigital.java,7\5\752c020e07980d34c7d9ecf7ca333e6fadeda150
+T
+$src/br/com/fiap/tests/Principal.java,8\4\848a6e9c46f46776d062490c6a458d042be5a2c7

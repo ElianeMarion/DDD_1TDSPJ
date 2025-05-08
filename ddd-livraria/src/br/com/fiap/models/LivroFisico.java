@@ -5,11 +5,23 @@ import br.com.fiap.enums.TipoCapaEnum;
 public class LivroFisico extends Livro{
     private String endereco;
     private double taxaEntrega;
+    private TipoCapaEnum tipoCapa; //COMUM, DURA, PERSONALIZADA
+
+    public TipoCapaEnum getTipoCapa() {
+        return tipoCapa;
+    }
+
+    public void setTipoCapa(TipoCapaEnum tipoCapa) {
+        this.tipoCapa = tipoCapa;
+    }
 
     //Sobrescrita de métodos => Método com a mesma assinatura da
     //superclasse porém com regra diferente
-    public void exibirLivro(){
-        super.exibirLivro();
+
+
+    @Override
+    public void exibirDetalhes() {
+        System.out.println("Tipo de capa: " + tipoCapa);
         System.out.println("Endereço: " + endereco);
         System.out.println("Taxa de entrega: " + taxaEntrega);
     }
@@ -22,12 +34,20 @@ public class LivroFisico extends Livro{
         super(editora);
     }
 
+    public LivroFisico(String titulo, String autor, double preco, Editora editora, int paginas, String resumo) {
+        super(titulo, autor, preco, editora, paginas, resumo);
+    }
+
+    public LivroFisico(String titulo, Editora editora) {
+        super(titulo, editora);
+    }
+
     public LivroFisico(String titulo, String autor, double preco, Editora editora, int paginas, String resumo, TipoCapaEnum tipoCapa) {
-        super(titulo, autor, preco, editora, paginas, resumo, tipoCapa);
+        super(titulo, autor, preco, editora, paginas, resumo);
     }
 
     public LivroFisico(String titulo, Editora editora, TipoCapaEnum tipoCapa) {
-        super(titulo, editora, tipoCapa);
+        super(titulo, editora);
     }
 
     public String getEndereco() {

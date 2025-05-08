@@ -3,6 +3,8 @@ package br.com.fiap.tests;
 import br.com.fiap.enums.TipoCapaEnum;
 import br.com.fiap.models.Editora;
 import br.com.fiap.models.Livro;
+import br.com.fiap.models.LivroDigital;
+import br.com.fiap.models.LivroFisico;
 
 import java.util.Scanner;
 
@@ -18,7 +20,7 @@ public class TesteLivro {
 
         //Criar um objeto -> Instanciar um objeto
     //  Tipo  nomeObjeto = new Tipo();
-        Livro meuLivro = new Livro();
+        LivroFisico meuLivro = new LivroFisico();
         meuLivro.setTitulo("UML 2");
         meuLivro.setAutor("Gilleanes Guedes");
         meuLivro.setEditora(novatec);
@@ -28,11 +30,11 @@ public class TesteLivro {
         meuLivro.setResumo("UML abordagem prática....");
         meuLivro.exibirLivro();
 
-        Livro livroDaGiovanna = new Livro(novatec);
+        LivroFisico livroDaGiovanna = new LivroFisico(novatec);
         livroDaGiovanna.setTitulo("Harry Potter e a pedra filosofal");
         livroDaGiovanna.setAutor("J K ");
 
-        Livro livro = new Livro();
+        LivroFisico livro = new LivroFisico();
         System.out.println("Informe o título do livro");
         livro.setTitulo(leitor.nextLine());
         System.out.println("Tipo de capa: \n1 - Comum\n2 - Dura\n3 - Personalizada" +
@@ -46,7 +48,7 @@ public class TesteLivro {
             livro.setTipoCapa(TipoCapaEnum.PERSONALIZADA);
 
 
-        Livro livroTeste = new Livro("titulo", "autor", 289,
-                novatec, 200,"resumo",TipoCapaEnum.DURA );
+       // LivroDigital livroTeste = new LivroDigital("titulo", "autor", 289,
+        //        novatec, 200,"resumo");
     }
 }

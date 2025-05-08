@@ -1,11 +1,12 @@
 
-†
-java:S18541">Remove this useless assignment to local variable "livroTeste".(ôêßùÿÿÿÿ8ÖÅÒ¾İ2J$ee456e33-8276-4c33-b419-7ef14e6cddfb
-}	java:S125"<This block of commented-out lines of code should be removed.(ğ¸ÙN8ÛÅÒ¾İ2J$b460d4cc-b4ae-468d-8f43-4f6999b077e6
-~	java:S125"<This block of commented-out lines of code should be removed.( ñŸ8İÅÒ¾İ2J$cfffe063-8f34-456e-93e9-e1db493d8816
-r	java:S106$"+Replace this use of System.out by a logger.(ª¯Èıÿÿÿÿ8ßÅÒ¾İ2J$27c5d52a-9362-4e5a-affa-8c0ddd5e2f11
-r	java:S106&"+Replace this use of System.out by a logger.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$943a930f-9299-48e3-bddd-b97fe2040ab2
+}	java:S125"<This block of commented-out lines of code should be removed.(ğ¸ÙN8ÛÅÒ¾İ2J$8a69bcfd-48d7-4a86-9ba3-7b81c7c83438
+~	java:S125"<This block of commented-out lines of code should be removed.( ñŸ8İÅÒ¾İ2J$4edccb3b-eede-4f5f-b76f-4d703cd53b32
+r	java:S106&"+Replace this use of System.out by a logger.(ª¯Èıÿÿÿÿ8ßÅÒ¾İ2J$3a1c4ab2-ae97-4e6e-9e03-17151cb25c41
+r	java:S106("+Replace this use of System.out by a logger.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$117cb7db-d790-42bc-9de6-0372604c0abf
 z
-java:S6126&"2Replace this String concatenation with Text block.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$30c47264-10ac-4ade-84f4-ff8aebeaac91
-w
-java:S14811"/Remove this unused "livroTeste" local variable.(ôêßùÿÿÿÿ8ãÅÒ¾İ2J$ee62b0b1-52b7-44c1-a970-3ad2fd409c0f
+java:S6126("2Replace this String concatenation with Text block.(¨ÉÃ±øÿÿÿÿ8áÅÒ¾İ2J$0b37bc4c-6533-4752-942e-b42f32f9678c
+]	java:S1254"<This block of commented-out lines of code should be removed.(ü­Êğùÿÿÿÿ8Íœè€ë2
+R
+java:S1128"5Remove this unused import 'br.com.fiap.models.Livro'.(ê¹¿Ğ8Ïœè€ë2
+^
+java:S1128"<Remove this unused import 'br.com.fiap.models.LivroDigital'.(ŞêÒÒÿÿÿÿÿ8Ğœè€ë2

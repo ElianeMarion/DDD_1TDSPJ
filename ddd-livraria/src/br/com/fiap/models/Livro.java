@@ -6,7 +6,7 @@ import br.com.fiap.enums.TipoCapaEnum;
 import java.time.LocalDateTime;
 import java.util.Random;
 
-public class Livro {
+public abstract class Livro {
     //Atributo tipo nomeAtributo;
     protected String titulo;
     private String autor;
@@ -14,7 +14,7 @@ public class Livro {
     private Editora editora;
     private int paginas;
     private String resumo;
-    private TipoCapaEnum tipoCapa; //COMUM, DURA, PERSONALIZADA
+
 
     //+ aplicarDesconto(taxa: double): double
     public double aplicarDesconto(double taxa){
@@ -22,6 +22,10 @@ public class Livro {
             return preco - preco * taxa / 100;
         return preco;
     }
+
+    public Livro() {
+    }
+
     public String getTitulo() {
         return titulo;
     }
@@ -70,41 +74,31 @@ public class Livro {
         this.resumo = resumo;
     }
 
-    public TipoCapaEnum getTipoCapa() {
-        return tipoCapa;
-    }
-
-    public void setTipoCapa(TipoCapaEnum tipoCapa) {
-        this.tipoCapa = tipoCapa;
-    }
 
     //Construtor
     //Sobrecarga de métodos -> Métodos com mesmo nome porém assinatura diferente
-    public Livro(){
-        tipoCapa = TipoCapaEnum.COMUM;
-    }
+
 
     public Livro(Editora editora){
         this.editora = editora;
-        tipoCapa = TipoCapaEnum.COMUM;
     }
 
     public Livro(String titulo, String autor, double preco,
-                 Editora editora, int paginas, String resumo,
-                 TipoCapaEnum tipoCapa) {
+                 Editora editora, int paginas, String resumo
+                 ) {
         this.titulo = titulo;
         this.autor = autor;
         this.preco = preco;
         this.editora = editora;
         this.paginas = paginas;
         this.resumo = resumo;
-        this.tipoCapa = tipoCapa;
+
     }
 
-    public Livro(String titulo, Editora editora, TipoCapaEnum tipoCapa) {
+    public Livro(String titulo, Editora editora) {
         this.titulo = titulo;
         this.editora = editora;
-        this.tipoCapa = tipoCapa;
+
     }
 
     //Método para exibir o livro
@@ -113,10 +107,10 @@ public class Livro {
         System.out.println("Autor: " + autor);
         System.out.println("Editora: " + editora.getNome());
         System.out.println("Preço: " + preco);
-        System.out.println("Tipo de capa: " + tipoCapa);
+        //System.out.println("Tipo de capa: " + tipoCapa);
         System.out.println("-------------------------------------\n");
     }
-
+    public abstract void exibirDetalhes();
     public String exibirTipoCapa(){
         return "";
 
