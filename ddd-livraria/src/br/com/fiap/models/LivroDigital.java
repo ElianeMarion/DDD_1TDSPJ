@@ -38,4 +38,9 @@ public class LivroDigital extends Livro{
         return getPreco();
 
     }
+
+    @Override
+    public String getNome() {
+        return "";
+    }
 }

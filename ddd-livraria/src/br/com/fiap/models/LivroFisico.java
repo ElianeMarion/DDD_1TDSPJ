@@ -65,4 +65,9 @@ public class LivroFisico extends Livro{
     public void setTaxaEntrega(double taxaEntrega) {
         this.taxaEntrega = taxaEntrega;
     }
+
+    @Override
+    public String getNome() {
+        return titulo;
+    }
 }

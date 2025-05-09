@@ -5,4 +5,9 @@ public class LivroBolso extends Livro{
     public void exibirDetalhes() {
 
     }
+
+    @Override
+    public String getNome() {
+        return "";
+    }
 }
