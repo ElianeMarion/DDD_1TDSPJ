@@ -1,9 +1,8 @@
 
-}
-java:S1161
-":Add the "@Override" annotation above this method signature(ªÇş¥8€Âø€ë2J$44951fc3-52e6-4701-ae90-89251ee715f8
-‚
-java:S1161":Add the "@Override" annotation above this method signature(ÄÒµ¥şÿÿÿÿ8‚Âø€ë2J$36bb226a-854c-4c67-9b16-9364cd2fcbd0
 m	java:S106"+Replace this use of System.out by a logger.(†ÕÓ÷8…Âø€ë2J$9ac24b73-2717-4bfe-b49a-15c1a00b98ed
 m	java:S106"+Replace this use of System.out by a logger.(­®¶õ8†Âø€ë2J$64686644-32ad-47f5-831a-f5b51f25005f
 l	java:S106"+Replace this use of System.out by a logger.(Ğÿä>8†Âø€ë2J$efb1f8f9-849c-4775-9957-5f9ae28bb9f7
+Q
+java:S1172-"/Remove this unused method parameter "tipoCapa".(©šÈ–üÿÿÿÿ8¤ÕÒ í2
+Q
+java:S11721"/Remove this unused method parameter "tipoCapa".(ñ–şûÿÿÿÿ8§ÕÒ í2
