@@ -1,0 +1,17 @@
+
+­
+java:S1319"eThe type of "nomes" should be an interface such as "List" rather than the implementation "ArrayList".(§èØøÿÿÿÿ8«ê÷£í2J$8e6f3bdc-eef2-4fda-8650-291518108de8
+m	java:S106"+Replace this use of System.out by a logger.(ôƒù8·ê÷£í2J$7cdcb9ce-5d7a-40e1-82a2-fc51c0e2e568
+u
+java:S6126"2Replace this String concatenation with Text block.(ôƒù8¸ê÷£í2J$c6a326a7-ec11-4a40-b97a-5893bfb54d7f
+r	java:S106"+Replace this use of System.out by a logger.(šéüııÿÿÿÿ8ºê÷£í2J$78f7100a-13db-4e46-aa99-628c7ecd7157
+‡
+java:S1854!"?Remove this useless assignment to local variable "nomesAlunos".(ÿ×‘øÿÿÿÿ8»ê÷£í2J$f3b6845a-1008-4489-9770-01e61d8afaa9
+r	java:S106"+Replace this use of System.out by a logger.(ñØíøÿÿÿÿ8¼ê÷£í2J$71bc0529-d5a2-49d7-aebd-cf743d3ed5ea
+r	java:S106"+Replace this use of System.out by a logger.(òÑÀùÿÿÿÿ8½ê÷£í2J$3242adce-dfd9-4066-bef1-524ae6bcd982
+m	java:S106 "+Replace this use of System.out by a logger.(¨¸î8½ê÷£í2J$a61f7ef1-c3d2-4ca5-90c6-ba561511ced8
+m	java:S106'"+Replace this use of System.out by a logger.(ç‚ô8¾ê÷£í2J$548de53d-76a9-45af-acf9-e1b7f15e1932
+m	java:S106)"+Replace this use of System.out by a logger.(äÖ¬á8¾ê÷£í2J$00717c1a-7bc5-4c20-a777-95c77455299a
+m	java:S106-"+Replace this use of System.out by a logger.(æî¨“8¾ê÷£í2J$9d22a3d4-c91d-432c-9da6-f9668bbf9721
+m	java:S1061"+Replace this use of System.out by a logger.(´·ú”8¿ê÷£í2J$ea58ccad-b1a9-4117-9eba-ffead74014cc
+r	java:S1065"+Replace this use of System.out by a logger.(¹ß€ïúÿÿÿÿ8€ù£í2J$27d7db7c-fea4-4123-a407-1508318749a6
