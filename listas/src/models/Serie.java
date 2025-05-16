@@ -11,13 +11,17 @@ public class Serie extends Titulo{
 
     private List<Temporada> temporadas;
 
-    public Serie(int numeroTemporada, boolean ativa, int episodiosPorTemporada, int minutosPorEpisodio, List<Temporada> temporadas) {
+    public Serie(int numeroTemporada, boolean ativa, int episodiosPorTemporada, int minutosPorEpisodio,
+                 List<Temporada> temporadas,String nome) {
         this.numeroTemporada = numeroTemporada;
         this.ativa = ativa;
         this.episodiosPorTemporada = episodiosPorTemporada;
         this.minutosPorEpisodio = minutosPorEpisodio;
         this.temporadas = temporadas;
+        super.setNome(nome);
     }
+
+
 
     public Serie() {
     }
@@ -25,6 +29,8 @@ public class Serie extends Titulo{
     public Serie(String lucifer, int i, boolean b, double v, int i1, int i2, boolean b1, int i3, int i4, List<Temporada> temporadas, int i5) {
         super();
     }
+
+
 
     @Override
     public String toString() {
