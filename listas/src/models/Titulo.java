@@ -13,6 +13,21 @@ public abstract class Titulo {
         System.out.println("Nome: " + nome);
         System.out.println("Ano de lançamento: " + anoDeLancamento);
     }
+    public Titulo(){}
+    public Titulo(String nome, int anoDeLancamento, int duracaoEmMinutos) {
+        this.nome = nome;
+        this.anoDeLancamento = anoDeLancamento;
+        this.duracaoEmMinutos = duracaoEmMinutos;
+    }
+
+    public Titulo(String nome, int anoDeLancamento, int duracaoEmMinutos, double somaAvaliacao, int totalAvaliacoes, ClassificacaoEnum classificacaoIndicativa) {
+        this.nome = nome;
+        this.anoDeLancamento = anoDeLancamento;
+        this.duracaoEmMinutos = duracaoEmMinutos;
+        this.somaAvaliacao = somaAvaliacao;
+        this.totalAvaliacoes = totalAvaliacoes;
+        this.classificacaoIndicativa = classificacaoIndicativa;
+    }
 
     //Uma classe abstrata pode ter métodos abstratos
     //Métodos abstratos -> Na super classe não tem implementação e colocamos a palavra abstract

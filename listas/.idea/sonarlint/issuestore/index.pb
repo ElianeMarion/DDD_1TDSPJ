@@ -13,3 +13,5 @@ F
 src/models/Titulo.java,7\8\78bb0c94a54d1eec79c772494a89be52178a5942
 P
  src/listas/ExemploArrayList.java,a\5\a5fc6b82d8a275b780e5a507e9e95d1419b22244
+Q
+!src/testsStreaming/Principal.java,8\9\89123603320f8c618ceca3a979b27534adb06886

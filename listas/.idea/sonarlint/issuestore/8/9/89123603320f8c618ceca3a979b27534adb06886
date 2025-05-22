@@ -1,0 +1,11 @@
+
+“	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™æ-J$7b7dbd50-c5a3-4002-9c8a-03159da6f5a7
+~	java:S125:"<This block of commented-out lines of code should be removed.(µ°×¡8£ÅõÁï2J$422025a1-bc09-4a2a-8a81-16bbcce116e3
+r	java:S106?"+Replace this use of System.out by a logger.(î´’ùÿÿÿÿ8¥ÅõÁï2J$7fceedff-b95f-4cfb-96ea-5ba3bec2f9bd
+m	java:S106@"+Replace this use of System.out by a logger.(–¾’±8¦ÅõÁï2J$e2ba2779-52c2-417b-b6b5-0a92791b7eb5
+m	java:S106B"+Replace this use of System.out by a logger.(ÂÒÌ›8§ÅõÁï2J$455eeac6-ba28-4cfb-b0ed-8420f6c12516
+r	java:S106C"+Replace this use of System.out by a logger.(×ðúúÿÿÿÿ8§ÅõÁï2J$6eabcf72-c9e6-4a34-afe7-01a572697a80
+—
+java:S6204F"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Á€Âï2
+r	java:S106G"+Replace this use of System.out by a logger.(Åì“¬ýÿÿÿÿ8¨ÅõÁï2J$e886e31e-2dfb-4b40-b263-10c09b72fc50
+m	java:S106\"+Replace this use of System.out by a logger.(ÂÒÌ›8„òöÁï2J$8c376f0e-6f48-4a6c-8088-98f6f10c21f9
