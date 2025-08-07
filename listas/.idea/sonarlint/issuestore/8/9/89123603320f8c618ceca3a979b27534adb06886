@@ -1,11 +1,34 @@
 
-“	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™æ-J$7b7dbd50-c5a3-4002-9c8a-03159da6f5a7
-~	java:S125:"<This block of commented-out lines of code should be removed.(µ°×¡8£ÅõÁï2J$422025a1-bc09-4a2a-8a81-16bbcce116e3
-r	java:S106?"+Replace this use of System.out by a logger.(î´’ùÿÿÿÿ8¥ÅõÁï2J$7fceedff-b95f-4cfb-96ea-5ba3bec2f9bd
-m	java:S106@"+Replace this use of System.out by a logger.(–¾’±8¦ÅõÁï2J$e2ba2779-52c2-417b-b6b5-0a92791b7eb5
-m	java:S106B"+Replace this use of System.out by a logger.(ÂÒÌ›8§ÅõÁï2J$455eeac6-ba28-4cfb-b0ed-8420f6c12516
-r	java:S106C"+Replace this use of System.out by a logger.(×ðúúÿÿÿÿ8§ÅõÁï2J$6eabcf72-c9e6-4a34-afe7-01a572697a80
-—
-java:S6204F"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Á€Âï2
-r	java:S106G"+Replace this use of System.out by a logger.(Åì“¬ýÿÿÿÿ8¨ÅõÁï2J$e886e31e-2dfb-4b40-b263-10c09b72fc50
-m	java:S106\"+Replace this use of System.out by a logger.(ÂÒÌ›8„òöÁï2J$8c376f0e-6f48-4a6c-8088-98f6f10c21f9
+°
+java:S1192\"mDefine a constant instead of duplicating this literal "============================================" 5 times.(ÂÒÌ›8¯ŽÄï2J$0ad0b4e7-f66b-45b5-bcfb-4a13099dfb53
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™æ-8±ŽÄï2J$7a3fee9c-e662-4b63-aca0-fa73c2c1a545
+~	java:S125:"<This block of commented-out lines of code should be removed.(µ°×¡8ÃŽÄï2J$84932a9f-3505-4a93-b31c-d4b48b1bef8d
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(¥­Ïüÿÿÿÿ8ÄŽÄï2J$aa08e045-a075-4b58-a7d4-1fde743b4efa
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(ëŠ—¸øÿÿÿÿ8ÄŽÄï2J$06842614-b63d-40b7-98b6-89576e766e3a
+m	java:S106\"+Replace this use of System.out by a logger.(ÂÒÌ›8ÆŽÄï2J$d1950cfa-c598-4957-871c-3e7f74c507ab
+r	java:S106^"+Replace this use of System.out by a logger.(íÃ†Õüÿÿÿÿ8ÆŽÄï2J$0829575d-f8b4-4ea8-b6fe-503c1e086c81
+r	java:S106`"+Replace this use of System.out by a logger.(Ç­›Ýúÿÿÿÿ8ÇŽÄï2J$e0660c18-3376-48fb-92cb-3fa780a4a6ce
+m	java:S106c"+Replace this use of System.out by a logger.(£†µ†8ÇŽÄï2J$723eca60-3ab8-4148-931b-7e9371d5f26d
+r	java:S106e"+Replace this use of System.out by a logger.(÷¼¦—ÿÿÿÿÿ8ÇŽÄï2J$0a830779-6c45-4d8a-9fc1-9b2cd1e2693a
+m	java:S106h"+Replace this use of System.out by a logger.(ÂÒÌ›8ÈŽÄï2J$bb12e251-25a5-41c9-b0a7-e7e5da384336
+l	java:S106j"+Replace this use of System.out by a logger.(¥ôX8ÈŽÄï2J$7729db8a-97b6-4533-b80e-8a1528f95c2a
+r	java:S106m"+Replace this use of System.out by a logger.(Þ„Ðúÿÿÿÿ8ÈŽÄï2J$70f8487c-782e-42e0-95e6-5497b1370157
+m	java:S106o"+Replace this use of System.out by a logger.(ÂÒÌ›8ÈŽÄï2J$aab7c5d3-4e8a-408f-96bc-9c60e10871fc
+m	java:S106p"+Replace this use of System.out by a logger.(áô—8ÈŽÄï2J$9356e4d8-d0e9-4e63-8492-3d5eb5e42141
+}
+java:S2479p":Remove the non-escaped \u0009 character from this literal.(áô—8ÊŽÄï2J$dd5a649f-f721-4d87-a75b-226ebd516a79
+r	java:S106r"+Replace this use of System.out by a logger.( ‚èøÿÿÿÿ8ËŽÄï2J$cb3ed7f4-e33f-45b8-bd55-5f59ea3293ec
+m	java:S106t"+Replace this use of System.out by a logger.(ÂÒÌ›8ËŽÄï2J$ee4cba71-9a77-43c5-af4c-5b5f1f2ce37b
+r	java:S106u"+Replace this use of System.out by a logger.(ôÊèºúÿÿÿÿ8ËŽÄï2J$a9dba2ad-4d7b-4eb4-930f-918127be65f3
+‚
+java:S2479u":Remove the non-escaped \u0009 character from this literal.(ôÊèºúÿÿÿÿ8ËŽÄï2J$3e3e2666-f0ec-44d9-8e58-7f19db1d02fc
+m	java:S106x"+Replace this use of System.out by a logger.(ÈÈÊ8ÌŽÄï2J$9564407f-d926-450b-80b6-dded7282317d
+m	java:S106y"+Replace this use of System.out by a logger.(ÂÒÌ›8ÌŽÄï2J$784f29db-2446-4e2b-91c7-34ae4e8bb38b
+r	java:S106z"+Replace this use of System.out by a logger.(úöŸµúÿÿÿÿ8ÌŽÄï2J$57e9727f-90ba-4629-9728-9ba5b74b13ef
+‚
+java:S2479z":Remove the non-escaped \u0009 character from this literal.(úöŸµúÿÿÿÿ8ÌŽÄï2J$f6ae9705-e95a-4a09-846e-b94652712d6e
+s	java:S106€"+Replace this use of System.out by a logger.(à˜Ù¸ùÿÿÿÿ8ÎŽÄï2J$608b0d64-53f5-4a0c-884f-493df3da6a10
+n	java:S106ƒ"+Replace this use of System.out by a logger.(¾÷ïÖ8ÏŽÄï2J$42f5695d-5bab-4511-8ea1-a6a4674d82e8
+n	java:S106…"+Replace this use of System.out by a logger.(ÍŸ—ó8åÊŽÄï2J$d934773a-8a5f-4ba9-8af7-94f54094b9f5
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8æÊŽÄï2J$e796e4f0-848f-40bc-8e9b-1cce18f53ec8

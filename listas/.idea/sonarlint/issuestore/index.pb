@@ -1,8 +1,4 @@
 
-C
-src/TesteVetor.java,8\6\86bebac664c89930205f46b7b8b59c903c5a5aa1
-B
-src/TesteList.java,2\0\20575179a4def8d09f018b936b2df3f2bace2019
 E
 src/models/Filme.java,f\8\f846fe34ed91ac021a361fd47a115609d7ff94da
 Q
@@ -15,3 +11,7 @@ P
  src/listas/ExemploArrayList.java,a\5\a5fc6b82d8a275b780e5a507e9e95d1419b22244
 Q
 !src/testsStreaming/Principal.java,8\9\89123603320f8c618ceca3a979b27534adb06886
+E
+src/models/Serie.java,2\3\23fcf7cd28809aea2a1e36ebb72b3ec6a292186f
+M
+src/tests/TesteEpisodios.java,8\0\8097355bf42317db41ff512288b1044b046193d4

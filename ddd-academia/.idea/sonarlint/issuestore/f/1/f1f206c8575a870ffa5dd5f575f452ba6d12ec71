@@ -1,0 +1,15 @@
+
+m	java:S106/"+Replace this use of System.out by a logger.(¯·†8¿ïê…3J$05ffb16d-d5e9-4bc1-bd4c-8cafef2c2415
+r	java:S1062"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Àïê…3J$5772a1fc-661b-4e43-8ab0-71893a7a2fb3
+m	java:S1068"+Replace this use of System.out by a logger.(ºÓó·8Áïê…3J$524cc5a5-83e7-44a0-806b-79033d29d794
+r	java:S106;"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Áïê…3J$12491979-4915-4e48-b7f5-3cafe7d0512f
+m	java:S106A"+Replace this use of System.out by a logger.(¥îÎ‹8Âïê…3J$a1ee6f2c-e3c8-4d05-8dc6-b028957f4ce8
+r	java:S106D"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Âïê…3J$dc0db19c-86b8-4b9f-b587-c13dd245ece2
+r	java:S106J"+Replace this use of System.out by a logger.(ó“÷ëşÿÿÿÿ8Ãïê…3J$c406dfb8-d250-49fb-9281-2bdae108901f
+m	java:S106Q"+Replace this use of System.out by a logger.(Üà8Äïê…3J$91ae9a99-2d3c-45c2-88c2-765f13d2e3f4
+–
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÒÑ´8¥”ì…3J$d9d525a0-9cae-4c38-aa7e-a9971c24fe3a
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(òß—Éûÿÿÿÿ8¦”ì…3J$4292a4be-62bf-4ab2-9634-0e6b7b3def07
+—
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(™èÖú8¦”ì…3J$a2954792-86ba-48ca-b6ae-37ada9d2b167

@@ -1,5 +1,6 @@
 package tests;
 
+import models.ClassificacaoEnum;
 import models.Episodio;
 import models.Serie;
 import models.Temporada;
@@ -25,8 +26,9 @@ public class TesteEpisodios {
         temporadas.add(temporada1);
         temporadas.add(temporada2);
 
-        Serie serie = new Serie(1,  false, 10,
-                45, temporadas, "Lucifer");
+        Serie lucifer = new Serie("Lucifer", 2016, 50,8.1, 10, ClassificacaoEnum.DEZOITO,
+                5,false, 8, 50, temporadas);
+
 /*Exibição da temporada mostrando a lista de episodios com for
         for(var temporada : temporadas ){
             System.out.println("Numero da temporada: " + temporada.getNumeroTemporada());

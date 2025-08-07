@@ -1,0 +1,10 @@
+
+ƒ
+java:S1854";Remove this useless assignment to local variable "lucifer".(¹¯şÅıÿÿÿÿ8ÈÆÈÃï2J$8f370a8a-c2ee-4d1e-849a-304ab3e2c140
+t
+java:S1481",Remove this unused "lucifer" local variable.(¹¯şÅıÿÿÿÿ8ËÆÈÃï2J$b29626ac-74e8-41aa-aeee-5c9404f2626b
+|	java:S125!"<This block of commented-out lines of code should be removed.(Æ‘÷ËúÿÿÿÿJ$8fd0f7de-ae42-49dd-a74f-5d9deb90f912
+k	java:S106+"+Replace this use of System.out by a logger.(î´’ùÿÿÿÿJ$c6a88824-8452-436f-ae2b-078f058c2f7b
+f	java:S106,"+Replace this use of System.out by a logger.(–¾’±J$694853f7-779f-4f09-9ef4-95e0a2538b0b
+f	java:S106."+Replace this use of System.out by a logger.(â’óJ$e995486b-75a9-4d7b-98a8-641fed0312db
+f	java:S106/"+Replace this use of System.out by a logger.(»£³ J$7d638839-f85f-4ac2-98bc-1d17bea29ad1

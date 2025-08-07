@@ -60,16 +60,16 @@ public class Principal {
         series.add(lucifer);
         series.add(strangerThings);
 
-        temporadas.forEach(System.out::println);
-        temporadas.forEach(t-> t.getEpisodios().forEach(e-> System.out.println(e.getNome())));
+        //temporadas.forEach(System.out::println);
+        //temporadas.forEach(t-> t.getEpisodios().forEach(e-> System.out.println(e.getNome())));
 
-        System.out.println("============================================");
+        /*System.out.println("============================================");
         System.out.println("Lista de episódios");
         List<Episodio> episodios = temporadas.stream()
                 .flatMap(t-> t.getEpisodios().stream())
                 .collect(Collectors.toList());
         episodios.forEach(System.out::println);
-
+*/
         Filme filmeA = new Filme();
         filmeA.setNome("Divertidamente 2");
         filmeA.setAnoDeLancamento(2024);
@@ -90,5 +90,50 @@ public class Principal {
         filmes.add(filmeC);
         filmes.add(filmeB);
         System.out.println("============================================");
+
+        System.out.println("1. Exibir os episódios por temporada.");
+        series.stream().forEach(serie -> {
+            System.out.println("Série: " + serie.getNome());
+            serie.getTemporadas().stream()
+                    .forEach(temp -> {
+                        System.out.println("Temporada " + temp.getNumeroTemporada());
+                        temp.getEpisodios().stream()
+                                .forEach(ep -> System.out.println(" Ep " + ep.getNumero() + " - " + ep.getNome()));
+                    });
+        });
+        System.out.println("============================================");
+
+        System.out.println("2. Exibir as séries ativas");
+        series.stream()
+                .filter(Serie::isAtiva)
+                .forEach(ativa -> System.out.println("Ativa: " + ativa.getNome()));
+
+        System.out.println("============================================");
+        System.out.println("3.	Exibir a quantidade de temporadas por série.");
+        series.stream()
+                .forEach(s -> System.out.println(s.getNome() + " tem " +
+                        s.getTemporadas().size() + " temporada(s)"));
+        System.out.println("============================================");
+        System.out.println("4.	Exibir uma lista de séries finalizadas");
+        series.stream()
+                .filter(s -> !s.isAtiva())
+                .forEach(finalizadas -> System.out.println("Finalizada: " + finalizadas.getNome()) );
+        System.out.println("============================================");
+        System.out.println("5.	Ao selecionar uma série finalizada, exibir todas as temporadas e seus respectivos episódios.");
+        String nomeEscolhido = "Lucifer";
+        series.stream()
+                .filter(s-> !s.isAtiva() && s.getNome().equalsIgnoreCase(nomeEscolhido))
+                .findFirst()
+                .ifPresent(s -> {
+                    System.out.println(">>> " + s.getNome());
+                    s.getTemporadas().stream()
+                            .forEach(temp -> {
+                                System.out.println("Temporada: " + temp.getNumeroTemporada());
+                                temp.getEpisodios().stream()
+                                        .forEach(ep-> System.out.println("Ep: " + ep.getNumero() + " - " + ep.getNome()));
+                            });
+                });
+
+
     }
 }

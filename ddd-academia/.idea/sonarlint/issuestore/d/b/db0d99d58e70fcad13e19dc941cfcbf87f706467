@@ -1,0 +1,39 @@
+
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8É¡ì…3J$6b6a2732-0a2c-4e91-af6e-9bb58855a627
+l	java:S106"+Replace this use of System.out by a logger.(à™é	8Ó¡ì…3J$33380025-1aba-4157-9b86-8f3fe15b854b
+m	java:S106"+Replace this use of System.out by a logger.(Öòµ´8Ô¡ì…3J$712f90b8-cdcc-49ae-98b6-19d5fd0fa907
+m	java:S106"+Replace this use of System.out by a logger.(¬ÜŠë8Õ¡ì…3J$a4388936-428b-488c-ad2c-0e74b24b6b64
+m	java:S106"+Replace this use of System.out by a logger.(İìî“8Õ¡ì…3J$ef4f9610-991c-451c-9a4b-cd85f22f033d
+m	java:S106"+Replace this use of System.out by a logger.(ùòÅğ8Ö¡ì…3J$86915039-5f5a-4f9a-a0ef-e87e8c300133
+r	java:S106"+Replace this use of System.out by a logger.(ó•¢Ìøÿÿÿÿ8Ö¡ì…3J$596b6486-8e9a-4389-aaa9-f44cbaccce85
+m	java:S106"+Replace this use of System.out by a logger.(ùãø±8Ö¡ì…3J$11bcf2a3-96f8-4d0b-be26-5fe6a626b39e
+m	java:S106"+Replace this use of System.out by a logger.(®ÕæÀ8Ö¡ì…3J$1f916f9b-9cf7-47f8-bcec-f6d67e5394e0
+m	java:S106"+Replace this use of System.out by a logger.(ÜÏìç8×¡ì…3J$579ca81f-cdd1-4ebf-b392-7ce16d256373
+r	java:S106"+Replace this use of System.out by a logger.(ò¨¦åûÿÿÿÿ8×¡ì…3J$49682506-d6f0-43a4-8a51-470bab9abf50
+r	java:S106"+Replace this use of System.out by a logger.(’Ğï¿ÿÿÿÿÿ8×¡ì…3J$d7e9f09a-4258-45cc-8699-a6a24f673ab2
+m	java:S106"+Replace this use of System.out by a logger.(òï‰Õ8×¡ì…3J$0bbc77b1-61f5-4650-b76f-6fab1a1ffd62
+m	java:S106"+Replace this use of System.out by a logger.(ÊÏù¼8Ù¡ì…3J$e2775a69-e45f-4eeb-96ed-d24081eeba58
+m	java:S106!"+Replace this use of System.out by a logger.(ğË¹¶8Ù¡ì…3J$5b8ecb75-b0d1-464d-b823-bed614d1f543
+r	java:S106$"+Replace this use of System.out by a logger.(¢á§áúÿÿÿÿ8Ú¡ì…3J$1224fd52-9589-45f7-9d64-1cbac01ac74d
+m	java:S106'"+Replace this use of System.out by a logger.(†äæ8Û¡ì…3J$cb06718b-da3e-4712-9f1b-09a13a4bc029
+m	java:S106+"+Replace this use of System.out by a logger.(ıÉíŸ8Ü¡ì…3J$d3cd047b-daa8-43cf-b517-57791054d6e8
+m	java:S106-"+Replace this use of System.out by a logger.(‘¦¾8Ü¡ì…3J$251a4576-1816-4e97-8531-b87671439a01
+m	java:S106/"+Replace this use of System.out by a logger.(Ø•äÆ8İ¡ì…3J$2a32b380-ca20-4728-bf6a-00b8ec4d1520
+r	java:S1062"+Replace this use of System.out by a logger.(”ÉÚ…üÿÿÿÿ8İ¡ì…3J$69ecca3d-f644-4ea5-bd85-4d9b57186b41
+k	java:S1086")Either remove or fill this block of code.(öŞ×Ÿ8ß¡ì…3J$bb7b7961-6fa8-4a0d-a0d8-4e83da9a31b9
+r	java:S1067"+Replace this use of System.out by a logger.(öşéŒúÿÿÿÿ8ß¡ì…3J$989d3fd3-0f27-4ca0-a089-efdfdf2012ec
+r	java:S1069"+Replace this use of System.out by a logger.(™ºèÂÿÿÿÿÿ8à¡ì…3J$2b9fec9c-616b-48c0-b475-901a75fd1208
+r	java:S106E"+Replace this use of System.out by a logger.(ÅÃÒäşÿÿÿÿ8â¡ì…3J$1b24f89d-795a-4b9b-8fef-e5e156cbe147
+r	java:S106G"+Replace this use of System.out by a logger.(¡şÖÿÿÿÿÿ8ã¡ì…3J$0dad6053-30d7-42d8-b6f7-050639f711ca
+m	java:S106L"+Replace this use of System.out by a logger.(ÕÍ®Ó8ã¡ì…3J$106fb37f-6dfb-4745-9da6-3c880ad4e049
+r	java:S106Q"+Replace this use of System.out by a logger.(”€œşÿÿÿÿ8å¡ì…3J$12f15252-e839-4431-b813-b61d286a7221
+r	java:S106U"+Replace this use of System.out by a logger.(›Ÿ§Ûûÿÿÿÿ8å¡ì…3J$c9c6871c-5723-4a9f-b2ab-a6fb8f5ae3f3
+m	java:S106\"+Replace this use of System.out by a logger.(ïŠä¥8æ¡ì…3J$06e44ed1-c8d7-4fcd-9649-be33f8c5fff2
+r	java:S106^"+Replace this use of System.out by a logger.(´×¼Áıÿÿÿÿ8ç¡ì…3J$28366e7e-66da-4fe0-9730-0794bc9196eb
+r	java:S106s"+Replace this use of System.out by a logger.(›Ÿ§Ûûÿÿÿÿ8ç¡ì…3J$d1b15057-0f51-457e-b8ff-7d3caf7ec0bb
+r	java:S106y"+Replace this use of System.out by a logger.(´×¼Áıÿÿÿÿ8é¡ì…3J$cc9c8854-07de-42b3-9608-eb9d4b466cd8
+r	java:S106~"+Replace this use of System.out by a logger.(ìÂ”¢ıÿÿÿÿ8é¡ì…3J$28523872-fa62-4bf0-99a6-764d29f61fe8
+s	java:S106‚"+Replace this use of System.out by a logger.(Şš¶Ûıÿÿÿÿ8é¡ì…3J$73a5a725-944e-4bd2-a8c6-6bee00dcd23d
+Š
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 112 to 64, Complexity from 19 to 14, Nesting Level from 4 to 2, Number of Variables from 20 to 6.(Çµí‘8ì¡ì…3J$c5b7eff6-a145-467e-a44e-55842afb39f6
