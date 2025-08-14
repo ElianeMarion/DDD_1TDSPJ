@@ -41,6 +41,6 @@ public class LivroDigital extends Livro{
 
     @Override
     public String getNome() {
-        return "";
+        return titulo;
     }
 }

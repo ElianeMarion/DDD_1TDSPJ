@@ -1,4 +1,7 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ï¸¨Úıÿÿÿÿ8©À…‚ë2J$f7fbb79b-7fa2-4979-9c2b-61ff1c1216ec
-m	java:S106 "+Replace this use of System.out by a logger.(¬ÀÊÿ8®À…‚ë2J$6b8dabda-95c1-4e85-9c99-80b496380007
-m	java:S106%"+Replace this use of System.out by a logger.(•£İ¹8±Ô‡‚ë2J$349360bb-5d25-4bc4-b32f-6ef76a890d2d
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ê“ÈŠ3J$b32751a8-9881-441d-8795-069ddfebfd40
+r	java:S106"+Replace this use of System.out by a logger.(ï¸¨Úıÿÿÿÿ8©À…‚ë2J$0b0bf6b9-2606-46cf-9560-55847d94d784
+m	java:S106""+Replace this use of System.out by a logger.(¬ÀÊÿ8®À…‚ë2J$349fec56-f7c6-4d63-a025-6712266164d5
+m	java:S106'"+Replace this use of System.out by a logger.(•£İ¹8±Ô‡‚ë2J$c42cc818-ced1-42e0-8f8c-e36aca0b3c70
+‰
+java:S1075("ARefactor your code to get this URI from a customizable parameter.(¾é³‡øÿÿÿÿ8èéšÈŠ3J$10a1c550-16f9-45d9-9d4d-e1e5860fe180

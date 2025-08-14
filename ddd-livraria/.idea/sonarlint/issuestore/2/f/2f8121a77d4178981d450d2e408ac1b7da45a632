@@ -1,0 +1,8 @@
+
+s
+java:S1450"XRemove the "descricao" field and declare it as a local variable in the relevant methods.(´ÃáÖşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(™ü¡™
+@	java:S106"+Replace this use of System.out by a logger.(Õ—±
+E	java:S106"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ
+H
+java:S1068"-Remove this unused "descricao" private field.(´ÃáÖşÿÿÿÿ

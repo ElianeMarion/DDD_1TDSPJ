@@ -1,15 +1,21 @@
 
 |
-java:S5993"9Change the visibility of this constructor to "protected".(¢ø—8¾·‚ë2J$a4762ab2-7b07-4d25-b8b8-a95ecaadeecc
+java:S5993"9Change the visibility of this constructor to "protected".(¢ø—8¾·‚ë2J$471088ff-7291-4276-9890-b0e4cf31f24e
 
-java:S5993S"9Change the visibility of this constructor to "protected".(õÄÛúÿÿÿÿ8À·‚ë2J$469a2bca-912b-43f8-8922-2d9e8a2876b7
+java:S5993S"9Change the visibility of this constructor to "protected".(õÄÛúÿÿÿÿ8À·‚ë2J$b3c6040b-3ddf-47ff-a440-4291c1a87a84
 
-java:S5993W"9Change the visibility of this constructor to "protected".(ô˜ıÿÿÿÿ8À·‚ë2J$f39c2334-dc7d-4ef4-b5ba-87e2c99fe0f9
+java:S5993W"9Change the visibility of this constructor to "protected".(ô˜ıÿÿÿÿ8À·‚ë2J$46c54c5e-b321-4d0e-8838-812384e36b46
 |
-java:S5993c"9Change the visibility of this constructor to "protected".(òµÙâ8Â·‚ë2J$17e96fbf-6476-41ae-86f7-197263b5cda4
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8È·‚ë2J$dcc503de-fff2-4d0d-b565-ddf689e89522
-m	java:S106k"+Replace this use of System.out by a logger.(Ñ›¾¢8Ù·‚ë2J$bccef0ca-4ed5-44f0-87f0-82cb4db26178
-r	java:S106l"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8Ù·‚ë2J$5a55a936-5c1c-4847-9029-5745eb9c13cd
-m	java:S106m"+Replace this use of System.out by a logger.(Õ—±8Û·‚ë2J$0fd67fbf-2ce4-45bc-aff5-f1d84322fe64
-L	java:S106n"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8°ÓÒ í2
-m	java:S106p"+Replace this use of System.out by a logger.(¹æšÍ8İ·‚ë2J$6bd1afca-996c-4838-b8f5-b66bdd72d7db
+java:S5993c"9Change the visibility of this constructor to "protected".(òµÙâ8Â·‚ë2J$42a21681-0549-4707-92be-ccdfa5df0f0c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÙÆşÿÿÿÿ8È·‚ë2J$38d8e70a-294f-4000-b6eb-f5bd24a19e4f
+m	java:S106k"+Replace this use of System.out by a logger.(Ñ›¾¢8Ù·‚ë2J$8b390593-cc10-4b12-8c63-06fb10b0d732
+r	java:S106l"+Replace this use of System.out by a logger.(—ü»Ëûÿÿÿÿ8Ù·‚ë2J$a5c95026-83ce-49c4-847d-f2a78fbcbefc
+m	java:S106m"+Replace this use of System.out by a logger.(Õ—±8Û·‚ë2J$b3b5b276-eae6-4a8e-81bc-1f2ecaa4c28f
+r	java:S106n"+Replace this use of System.out by a logger.(ÂÂ¸÷üÿÿÿÿ8°ÓÒ í2J$07f3a6ae-6b0c-4461-a9c1-bb64153588cb
+m	java:S106p"+Replace this use of System.out by a logger.(¹æšÍ8İ·‚ë2J$2aa453c0-3a75-4642-996c-98763673dc63
+]
+java:S1128";Remove this unused import 'br.com.fiap.enums.TipoCapaEnum'.(¸ˆƒÃûÿÿÿÿ8ÏÌõÇŠ3
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ÏÌõÇŠ3
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ÏÌõÇŠ3

@@ -5,6 +5,8 @@ import br.com.fiap.models.Editora;
 import br.com.fiap.models.LivroDigital;
 import br.com.fiap.models.LivroFisico;
 
+import java.io.IOException;
+
 public class TesteLivroFisico {
     public static void main(String[] args) {
         Editora novatec = new Editora();
@@ -35,5 +37,11 @@ public class TesteLivroFisico {
         carrinho.adicionarItem(livroFisico);
         carrinho.adicionarItem(ld);
         System.out.println("Valor total do carrinho: R$ "  + carrinho.getValorTotal());
+        String path = "C:\\projetos\\2025\\ddd\\DDD_1TDSPJ\\ddd-livraria\\cupom.txt";
+        try {
+            carrinho.imprimirCupom(path);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 }

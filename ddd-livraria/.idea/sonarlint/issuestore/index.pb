@@ -27,3 +27,11 @@ T
 $src/br/com/fiap/models/Carrinho.java,0\b\0b176b8c1768c5aa853c544f00bc6ed27e52f027
 V
 &src/br/com/fiap/models/LivroBolso.java,7\3\7320aaa6286d14137ff296cc8f38401f7d1651f6
+X
+(src/br/com/fiap/models/ArquivoCupom.java,3\d\3d6c714a680649a2136fbb9f3695e3f2568a9bc6
+9
+	cupom.txt,8\d\8d6de248a70cb299f3b956974412f08abfb84bea
+X
+(src/br/com/fiap/interfaces/Exemplar.java,b\2\b277e2da3d0578676c8e363ed3172a862ab802ad
+S
+#src/br/com/fiap/models/Revista.java,2\f\2f8121a77d4178981d450d2e408ac1b7da45a632

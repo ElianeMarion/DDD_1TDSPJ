@@ -1,8 +1,8 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(†ÕÓ÷8…Âø€ë2J$9ac24b73-2717-4bfe-b49a-15c1a00b98ed
-m	java:S106"+Replace this use of System.out by a logger.(­®¶õ8†Âø€ë2J$64686644-32ad-47f5-831a-f5b51f25005f
-l	java:S106"+Replace this use of System.out by a logger.(Ğÿä>8†Âø€ë2J$efb1f8f9-849c-4775-9957-5f9ae28bb9f7
-Q
-java:S1172-"/Remove this unused method parameter "tipoCapa".(©šÈ–üÿÿÿÿ8¤ÕÒ í2
-Q
-java:S11721"/Remove this unused method parameter "tipoCapa".(ñ–şûÿÿÿÿ8§ÕÒ í2
+m	java:S106"+Replace this use of System.out by a logger.(†ÕÓ÷8…Âø€ë2J$b9f411e4-d8d0-4a45-a1e7-3f08eb4d626f
+m	java:S106"+Replace this use of System.out by a logger.(­®¶õ8†Âø€ë2J$5ec6211c-56e8-4e08-a824-7651e49eff6d
+l	java:S106"+Replace this use of System.out by a logger.(Ğÿä>8†Âø€ë2J$5175eb47-6a96-4365-b58c-7e6b09adf521
+w
+java:S1172-"/Remove this unused method parameter "tipoCapa".(©šÈ–üÿÿÿÿ8¤ÕÒ í2J$a283050f-a021-4a48-b4ed-81e9795d9352
+w
+java:S11721"/Remove this unused method parameter "tipoCapa".(ñ–şûÿÿÿÿ8§ÕÒ í2J$03137d9e-1806-4c00-810d-922996be5a58

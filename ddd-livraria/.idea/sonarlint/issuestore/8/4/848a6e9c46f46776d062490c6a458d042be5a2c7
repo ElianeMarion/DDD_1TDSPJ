@@ -1,3 +1,5 @@
 
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8ª£θ2
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ΚΎ§Η3J$4557cacf-a163-4ac6-9c8d-35dccdcc1d2c
+‰
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(Ύι³‡ψÿÿÿÿ8γ΅Ζ3J$fa5c99ba-bd76-4e8f-9227-dfb2b3746e5f

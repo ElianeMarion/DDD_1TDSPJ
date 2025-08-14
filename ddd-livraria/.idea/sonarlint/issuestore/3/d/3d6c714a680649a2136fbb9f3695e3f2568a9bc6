@@ -1,0 +1,9 @@
+
+”
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Şêˆÿÿÿÿÿ8‘Í’ÇŠ3J$039a157a-9153-441f-b2fd-6083fa924d51
+”
+java:S2095	"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(—¯„øÿÿÿÿ8‘Í’ÇŠ3J$630dde33-d82e-462d-9b26-d1890a5aec86
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Ë®È8•Í’ÇŠ3J$6ccb5ed8-468f-491a-bd1b-f220183f6866
+r	java:S106"+Replace this use of System.out by a logger.(½†Ç¯ıÿÿÿÿ8šÍ’ÇŠ3J$d9779bb3-791c-4999-8684-bb2c81a0f8c3
+r	java:S106"+Replace this use of System.out by a logger.(Ó¶•İüÿÿÿÿ8 Í’ÇŠ3J$64242630-1a7b-4a08-a8b5-4bc99f04eba8

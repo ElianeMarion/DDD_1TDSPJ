@@ -1,0 +1,9 @@
+    CUPOM FISCAL     
+-------------------------------------------
+    ITENS COMPRADOS      
+-------------------------------------------
+Título         -        Preço
+Livrox -    100.0
+Sem criatividade -    50.0
+-------------------------------------------
+Valor total da compra R$ 150.0
