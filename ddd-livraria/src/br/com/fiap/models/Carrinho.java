@@ -22,6 +22,8 @@ public class Carrinho {
     }
 
     public void imprimirCupom(String path) throws IOException {
+        //Caso queira permitir que adicione textos sem apagar o conteúdo existente do arquivo
+        //BufferedWriter writer = new BufferedWriter(new FileWriter(path, true));
         BufferedWriter writer = new BufferedWriter(new FileWriter(path));
         writer.append("    CUPOM FISCAL     \n");
         writer.append("-------------------------------------------\n");

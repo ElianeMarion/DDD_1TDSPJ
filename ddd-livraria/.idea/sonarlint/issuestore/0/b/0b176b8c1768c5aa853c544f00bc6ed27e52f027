@@ -1,9 +1,10 @@
 
-	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¾ØóÇŠ3J$a02ad3d8-e56b-4789-9afc-c68d805da7b4
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¾ØóÇŠ3J$32bc8ce6-50d4-4dc1-994b-63b0bc4f8a42
 µ
-java:S1192"mDefine a constant instead of duplicating this literal "-------------------------------------------
-" 3 times.(»ÏÕÄşÿÿÿÿ8¸¬¤ÈŠ3J$e92d5278-d0fa-4f97-829a-34087626698e
+java:S1192"mDefine a constant instead of duplicating this literal "-------------------------------------------
+" 3 times.(»ÏÕÄşÿÿÿÿ8¸¬¤ÈŠ3J$068e216d-24c7-4931-9132-763a3f269be9
 ”
-java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Şêˆÿÿÿÿÿ8ÊØóÇŠ3J$c101cf04-137d-44e2-9c70-450b9a913869
-r	java:S106"+Replace this use of System.out by a logger.(Ö–åàúÿÿÿÿ8ÿªâÇŠ3J$4e83b929-cfb4-4cfc-baf3-b945cee81597
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÁÒ±ûÿÿÿÿ8«âÇŠ3J$5c3bcefc-2782-4da1-a032-33ab6eecd692
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Şêˆÿÿÿÿÿ8ÊØóÇŠ3J$aa3bbe70-24c2-445b-9ba2-6f224fa3fbe4
+r	java:S106"+Replace this use of System.out by a logger.(Ö–åàúÿÿÿÿ8ÿªâÇŠ3J$c7ee9f81-8434-4a64-b218-b863bf3c5200
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(µÁÒ±ûÿÿÿÿ8«âÇŠ3J$fcf0cc57-b9a6-42da-9293-eb2c05406614
+X	java:S125"<This block of commented-out lines of code should be removed.(¾æñô8‘¼îÈŠ3
