@@ -1,0 +1,5 @@
+1;João Silva;11987654321;joao.silva@email.com;@joaosilva;Rua A, 123;VIP
+2;Maria Souza;11912345678;maria.souza@fiap.com.br;@maria123;Rua B, 456;PREMIUM
+3;Pedro Santos;11955558888;pedro.santos@email.com;@pedrosantos;Rua C, 789;VIP
+4;Ana Oliveira;11933337777;ana.oliveira@fiap.com.br;@anaoliveira;Rua D, 101;PREMIUM
+5;Carlos Lima;11988884444;carlos.lima@email.com;@limac;Rua E, 202;COMUM

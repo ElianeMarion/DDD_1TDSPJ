@@ -1,0 +1,20 @@
+
+Õ
+java:S1192A"ŒDefine a constant instead of duplicating this literal "
+CÃ³digo\tNome\t\tCelular\t\tEmail\t\t\t\t\tInstagram\t\t\tTipo\tEndereÃ§o
+" 3 times.(–¡Ìùÿÿÿÿ8Ë¿€ÑŠ3J$e88fd62d-6407-4824-813e-7cb946731cb6
+r	java:S106 "+Replace this use of System.out by a logger.(ãÂŠıÿÿÿÿ8ó¿€ÑŠ3J$7827a608-3dcc-493b-8bfb-66e4815c60bd
+r	java:S106:"+Replace this use of System.err by a logger.(ÆŒûÿÿÿÿ8ù¿€ÑŠ3J$4fbb88c3-80b5-482b-9688-6bad5e003245
+r	java:S106@"+Replace this use of System.out by a logger.(ÅşÏŞıÿÿÿÿ8ú¿€ÑŠ3J$2e75c3bb-dba1-46d4-8bf8-64ea1f742579
+r	java:S106A"+Replace this use of System.out by a logger.(–¡Ìùÿÿÿÿ8ú¿€ÑŠ3J$73e1a8f4-2598-41e2-904e-bb0dc755b25e
+r	java:S106B"+Replace this use of System.out by a logger.(‹£³Šûÿÿÿÿ8ú¿€ÑŠ3J$0ee9787c-b1a5-413a-a364-580b752bd396
+r	java:S106F"+Replace this use of System.out by a logger.(Çı®èøÿÿÿÿ8û¿€ÑŠ3J$ff9ffd27-e8bc-42d8-bf5f-2b05deb90528
+r	java:S106G"+Replace this use of System.out by a logger.(–¡Ìùÿÿÿÿ8û¿€ÑŠ3J$e06c7da8-63e1-4cf2-8e60-e43083fd5b44
+½
+java:S6204J"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ü¿€ÑŠ3J$386bc123-be3b-4665-881f-54a219f1b813
+m	java:S106K"+Replace this use of System.out by a logger.(‘¹›û8ş¿€ÑŠ3J$3afc8e52-fe4e-41f8-b826-44c198d51e94
+l	java:S106O"+Replace this use of System.out by a logger.(É´å	8ÿ¿€ÑŠ3J$141eef43-6f8c-4bed-8766-911bd4fb7d3a
+r	java:S106P"+Replace this use of System.out by a logger.(–¡Ìùÿÿÿÿ8ÿ¿€ÑŠ3J$7c777230-9482-4ce5-aeed-89c4ac3b28bb
+½
+java:S6204S"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8€À€ÑŠ3J$20f3031c-1b5e-4653-a9c7-584215b5aee4
+r	java:S106T"+Replace this use of System.out by a logger.(Ìâ¢«üÿÿÿÿ8À€ÑŠ3J$2ea41f71-8113-4d83-b24d-60fbef35c018
