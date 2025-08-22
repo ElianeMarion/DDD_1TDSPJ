@@ -1,0 +1,16 @@
+{
+  "cpf": "1234",
+  "nome": "eliane",
+  "equipamentos": [
+    {
+      "numeroSerie": "123",
+      "modelo": "Samsung A73",
+      "servicos": [
+        {
+          "descricao": "Troca de tela",
+          "valor": 500.0
+        }
+      ]
+    }
+  ]
+}

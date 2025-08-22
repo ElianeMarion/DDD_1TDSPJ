@@ -1,0 +1,14 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8°´Ö3J$c76eec68-f7b6-4b0c-a2fc-410638424a97
+½
+java:S6204)"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8µ´Ö3J$c277b7a4-2671-45e2-ad02-cdb4ed8cbc0e
+n
+java:S11720"+Remove this unused method parameter "path".(şú©á8¸´Ö3J$07c35381-53ca-4b8c-9cf1-c33f6d4c3aa1
+r	java:S1064"+Replace this use of System.out by a logger.(ëÊáùÿÿÿÿ8»´Ö3J$0b156aba-669c-4bad-9b35-f1cada7e7de9
+r	java:S1066"+Replace this use of System.out by a logger.(Ç™”üÿÿÿÿÿ8»´Ö3J$cdf1b6a2-fdb0-44a9-812e-a83d34052e95
+n
+java:S11729"+Remove this unused method parameter "path".(ıÚ‹8¼´Ö3J$5baf5a2b-37b8-4f25-a287-7a3e9bc6f283
+r	java:S106="+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8½´Ö3J$472f26cd-d817-409c-9ae4-a127a9add0e2
+m	java:S106?"+Replace this use of System.out by a logger.(àì¥8¾´Ö3J$d7c41652-d776-4b74-afb2-22a56370755a
+r	java:S106X"+Replace this use of System.out by a logger.(ÈÃÎüÿÿÿÿ8À´Ö3J$68b1d8c9-e8b9-4555-84f9-674e48324141
+m	java:S106["+Replace this use of System.err by a logger.(Ñà‡”8Á´Ö3J$241e55a2-be28-4f69-9b76-4761e666a2df
