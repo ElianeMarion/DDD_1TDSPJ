@@ -1,10 +1,6 @@
 
-
-java:S1450"VRemove the "conexao" field and declare it as a local variable in the relevant methods.(–±µ·ÿÿÿÿÿ8ğø§éŒ3J$e5ce9cf6-e99d-429a-b71a-4aa7bdc9ccd7
-q
-java:S1172".Remove this unused method parameter "contato".(µ¯ª’8õø§éŒ3J$d8d27716-fe5e-4016-bd1b-ac266bcd98d2
-w
-java:S1481"/Remove this unused "comandoSQL" local variable.(™¤òÿÿÿÿÿ8÷ø§éŒ3J$815a1beb-b46d-400a-bd11-708568dbe97b
-X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8æÍÀéŒ3
-s
-java:S1068"+Remove this unused "conexao" private field.(–±µ·ÿÿÿÿÿ8ùø§éŒ3J$7d536dc7-e147-4340-b153-9b93a1b85a94
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8®ÂŒ‰3J$0d26af9e-eb36-441a-868f-2b71d19a94bd
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8½ÂŒ‰3J$a9c47497-1ee1-4da4-afff-812e9d63761a
+…
+java:S1128"=Remove this unused import 'oracle.jdbc.proxy.annotation.Pre'.(é÷¥Ûüÿÿÿÿ8ÆÂŒ‰3J$39fc38ef-ea17-4bd5-8184-cee016651164

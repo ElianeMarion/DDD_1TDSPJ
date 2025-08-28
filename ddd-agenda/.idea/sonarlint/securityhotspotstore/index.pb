@@ -15,3 +15,9 @@ Z
 0src/br/com/fiap/agenda/tests/ManipulandoTxt.java,8\3\83e9d536f89441aa26a7321fee2e8de81c5da47f
 a
 1src/br/com/fiap/agenda/tests/ManipulandoJson.java,3\5\35321e1c1724eed1aa93091ed8352ee622b198b4
+_
+/src/br/com/fiap/agenda/tests/TesteInsercao.java,8\5\856a8a0fbda238ecd1c2f0312a5635bfa97f430e
+N
+src/enums/TipoContatoEnum.java,2\3\233fbe1829e0c51cdd599e670e5876724e20b3ff
+b
+2src/br/com/fiap/agenda/tests/TesteBuscarPorId.java,7\2\7208948a317b077c1c0f692fa00317af47d1696f

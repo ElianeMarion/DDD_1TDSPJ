@@ -1,0 +1,11 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(Ëš›å8ñÕş‡3J$af12f931-538d-409b-b097-e67b977c5fc3
+r	java:S106"+Replace this use of System.out by a logger.(ê±ØÚıÿÿÿÿ8ñÕş‡3J$d58b1f31-de73-4ac5-bc7f-13f9887f6716
+r	java:S106"+Replace this use of System.out by a logger.(ä®õ™úÿÿÿÿ8òÕş‡3J$9f0308e6-c7fa-4a58-a9f7-11c379130d2a
+r	java:S106"+Replace this use of System.out by a logger.(ï€ˆÕüÿÿÿÿ8òÕş‡3J$b8f12d49-8c52-459a-99a5-97f3681e4f50
+m	java:S106"+Replace this use of System.out by a logger.(Âó¬‘8òÕş‡3J$accab885-d4a5-494e-b785-5d20c34c816c
+r	java:S106"+Replace this use of System.out by a logger.(ğÕÜøúÿÿÿÿ8º·„ˆ3J$6dcbe418-570c-47d5-b846-36949b389377
+i	java:S131 ""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8ø­¬ˆ3J$17789ca7-f296-4e1f-85cf-87cd92cc00b6
+r	java:S106'"+Replace this use of System.out by a logger.(€ÉÀÑûÿÿÿÿ8ÇÏ§ˆ3J$2844cee1-651a-4378-8cea-f91fb83a02b4
+e
+java:S1128"CRemove this unused import 'com.sun.tools.jconsole.JConsoleContext'.(ÕÆüéşÿÿÿÿ8Éò°ˆ3

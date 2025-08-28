@@ -1,5 +1,7 @@
 package br.com.fiap.agenda.models;
 
+import enums.TipoContatoEnum;
+
 public class Contato {
 
     private int id;
@@ -7,7 +9,7 @@ public class Contato {
     private String celular;
     private String email;
     private String instagram;
-    private String tipo;
+    private TipoContatoEnum tipo;
     @Override
     public String toString() {
         return "\nContato: " + id +
@@ -58,11 +60,11 @@ public class Contato {
         this.instagram = instagram;
     }
 
-    public String getTipo() {
+    public TipoContatoEnum getTipo() {
         return tipo;
     }
 
-    public void setTipo(String tipo) {
+    public void setTipo(TipoContatoEnum tipo) {
         this.tipo = tipo;
     }
 }

@@ -13,10 +13,10 @@ public class Cliente {
         this.nome = nome;
         this.equipamentos = new ArrayList<>();
     }
-    public void cadastrarEquipamento(Equipamento equipamento){
-        equipamentos.add(equipamento);
-    }
 
+    public void adicionarEquipamento(Equipamento e){
+        equipamentos.add(e);
+    }
     @Override
     public String toString() {
         return "Cliente: " +

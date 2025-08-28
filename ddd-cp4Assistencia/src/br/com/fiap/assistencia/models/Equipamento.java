@@ -14,7 +14,6 @@ public class Equipamento {
         this.servicos = new ArrayList<>();
     }
 
-
     public void adicionarServico(Servico s){
         servicos.add(s);
     }

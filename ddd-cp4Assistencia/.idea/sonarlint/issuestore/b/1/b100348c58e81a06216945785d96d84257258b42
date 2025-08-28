@@ -1,14 +1,10 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8°´Ö3J$c76eec68-f7b6-4b0c-a2fc-410638424a97
-½
-java:S6204)"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8µ´Ö3J$c277b7a4-2671-45e2-ad02-cdb4ed8cbc0e
 n
-java:S11720"+Remove this unused method parameter "path".(şú©á8¸´Ö3J$07c35381-53ca-4b8c-9cf1-c33f6d4c3aa1
-r	java:S1064"+Replace this use of System.out by a logger.(ëÊáùÿÿÿÿ8»´Ö3J$0b156aba-669c-4bad-9b35-f1cada7e7de9
-r	java:S1066"+Replace this use of System.out by a logger.(Ç™”üÿÿÿÿÿ8»´Ö3J$cdf1b6a2-fdb0-44a9-812e-a83d34052e95
-n
-java:S11729"+Remove this unused method parameter "path".(ıÚ‹8¼´Ö3J$5baf5a2b-37b8-4f25-a287-7a3e9bc6f283
-r	java:S106="+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8½´Ö3J$472f26cd-d817-409c-9ae4-a127a9add0e2
-m	java:S106?"+Replace this use of System.out by a logger.(àì¥8¾´Ö3J$d7c41652-d776-4b74-afb2-22a56370755a
-r	java:S106X"+Replace this use of System.out by a logger.(ÈÃÎüÿÿÿÿ8À´Ö3J$68b1d8c9-e8b9-4555-84f9-674e48324141
-m	java:S106["+Replace this use of System.err by a logger.(Ñà‡”8Á´Ö3J$241e55a2-be28-4f69-9b76-4761e666a2df
+java:S11721"+Remove this unused method parameter "path".(şú©á8ï“‚‡3J$c801b3a6-665c-4682-a99b-212ed1f45b1d
+r	java:S1066"+Replace this use of System.out by a logger.(ëÊáùÿÿÿÿ8ó“‚‡3J$3c053f4e-4095-4386-82b3-cf65762cdf54
+r	java:S1068"+Replace this use of System.out by a logger.(Ç™”üÿÿÿÿÿ8ó“‚‡3J$23be3528-5a44-4963-9a90-888819d5afeb
+s
+java:S1172;"+Remove this unused method parameter "path".(‡Óõşÿÿÿÿ8ô“‚‡3J$e434f49e-2af0-4ac8-afce-a4847e7aebad
+m	java:S106@"+Replace this use of System.out by a logger.(àì¥8÷“‚‡3J$76bc1547-4003-4992-9962-98aa7a9bef09
+r	java:S106I"+Replace this use of System.out by a logger.(ÈÃÎüÿÿÿÿ8ù“‚‡3J$35930a58-c82a-40c2-b0b6-39c1dab7d1f7
+m	java:S106L"+Replace this use of System.err by a logger.(Ñà‡”8ú“‚‡3J$44325d4a-4804-4ca6-9977-2986214b2835
