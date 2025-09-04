@@ -1,6 +1,14 @@
 
-	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8®ÂŒ‰3J$0d26af9e-eb36-441a-868f-2b71d19a94bd
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï·©‘3J$6ba74149-1964-46ee-89b7-d7da2b43ceab
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï·©‘3J$b63df7a9-1bca-44ec-b1e6-c9d63b10cf00
+	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï·©‘3J$be0124bd-db75-458d-a916-9b4ef2bfeeb7
+	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï·©‘3J$1e60cb2c-3fa6-4cfb-9acd-81895084f7da
+	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï·©‘3J$fcc4f921-18c0-4c96-9da2-9eee2274d206
 —
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8½ÂŒ‰3J$a9c47497-1ee1-4da4-afff-812e9d63761a
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8ƒŸ·©‘3J$50442394-a3fc-4e2e-81ab-ac9fa52349c4
+b
+java:S6905q"Don't use the query "SELECT *".(Í“Æ£8‘Ÿ·©‘3J$5a340d27-bd61-48af-bc07-9531852a9c56
+c
+java:S6905‹"Don't use the query "SELECT *".(ÉÊÌ÷8”Ÿ·©‘3J$05bf1052-9054-4f63-aaed-b45077019544
 …
-java:S1128"=Remove this unused import 'oracle.jdbc.proxy.annotation.Pre'.(é÷¥Ûüÿÿÿÿ8ÆÂŒ‰3J$39fc38ef-ea17-4bd5-8184-cee016651164
+java:S1128"=Remove this unused import 'oracle.jdbc.proxy.annotation.Pre'.(é÷¥Ûüÿÿÿÿ8–Ÿ·©‘3J$efaf9f77-1927-4f0e-97a7-20e6e071af6b

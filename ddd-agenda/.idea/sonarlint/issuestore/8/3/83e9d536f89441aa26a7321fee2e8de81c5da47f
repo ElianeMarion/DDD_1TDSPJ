@@ -2,3 +2,5 @@
 Ä
 java:S1186
 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æğÌç8È‘ÍéŒ3J$cff58eb2-83c8-4f4b-b96a-e3180eb8ff51
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8«ò¦‘3

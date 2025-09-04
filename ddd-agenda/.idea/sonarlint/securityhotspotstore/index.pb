@@ -21,3 +21,15 @@ N
 src/enums/TipoContatoEnum.java,2\3\233fbe1829e0c51cdd599e670e5876724e20b3ff
 b
 2src/br/com/fiap/agenda/tests/TesteBuscarPorId.java,7\2\7208948a317b077c1c0f692fa00317af47d1696f
+`
+0src/br/com/fiap/agenda/tests/ListarContatos.java,0\1\01008aa9ddbab8f0464217c1a334a58444b47a51
+`
+0src/br/com/fiap/agenda/tests/TesteAlteracao.java,0\f\0fa1bf9097dc7e86227901940e37f9af9c0a3063
+a
+1src/br/com/fiap/agenda/tests/TesteAlteracao2.java,c\e\ceacdc89e148131ac9d4b126b6039e6f1b34995a
+^
+.src/br/com/fiap/agenda/tests/TesteExcluir.java,f\2\f225413271eb8bfcad76bcb82a87f5c282f41919
+_
+/src/br/com/fiap/agenda/tests/BuscarPorTIpo.java,6\5\651a64c730ca82109b44408a4dd589d15043dfdd
+_
+/src/br/com/fiap/agenda/tests/BuscarPorTipo.java,8\f\8f49a850bd0fcac5ce65f94040a034a2cf2fd8d0

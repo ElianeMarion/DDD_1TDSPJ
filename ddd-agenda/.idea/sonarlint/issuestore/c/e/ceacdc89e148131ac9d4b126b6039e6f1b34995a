@@ -1,0 +1,14 @@
+
+~
+java:S1854";Remove this useless assignment to local variable "contato".(ÓëÜ³8ñ½À¨‘3J$1f1ac4d5-f20f-4f47-9295-78eb079a7e8e
+m	java:S106"+Replace this use of System.out by a logger.(ã°œ8÷½À¨‘3J$1dc73a2d-ec3b-42e3-8697-1a528b2edc3b
+m	java:S106"+Replace this use of System.out by a logger.(ÊÄ‚ğ8÷½À¨‘3J$1f8fcaf7-53ab-4eee-bc98-b7caa8cad66a
+m	java:S106"+Replace this use of System.out by a logger.(¾­ç€8÷½À¨‘3J$25354dbd-6016-400e-bf03-0694d51cc48d
+u
+java:S6126"2Replace this String concatenation with Text block.(¾­ç€8ø½À¨‘3J$543d5ab8-e809-471c-b2b2-acd968e7409c
+i	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8ù½À¨‘3J$caa3293a-c4df-44f6-ae84-3a6fe30d1d85
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(õÙÆ‚úÿÿÿÿ8û½À¨‘3J$d72b6d90-769b-4fc6-b28e-a2688d38150c
+r	java:S106"+Replace this use of System.out by a logger.(ü™ı½şÿÿÿÿ8û½À¨‘3J$5de078fe-f2b9-4e82-8d93-0168dbee9425
+r	java:S106"+Replace this use of System.out by a logger.(±ŸØ…şÿÿÿÿ8µ¾Ã¨‘3J$705d2edb-715c-475e-8be7-487b5fa7e1fd
+G	java:S106""+Replace this use of System.out by a logger.(ÊÄ‚ğ8ëòÆ¨‘3

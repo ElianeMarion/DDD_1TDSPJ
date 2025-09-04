@@ -1,7 +1,7 @@
 
 ~
-java:S1854";Remove this useless assignment to local variable "contato".(ÓëÜ³8êÊ¥‰3J$b31b355d-21bb-4c86-a8f3-6e01afc470c2
-m	java:S106"+Replace this use of System.out by a logger.(ã°œ8Ûœ¤‰3J$cb14263a-85de-4519-afc1-c5847f2f078e
-m	java:S106"+Replace this use of System.out by a logger.(ÊÄ‚ğ8Üœ¤‰3J$22f59697-48fb-4781-ab98-e94ff1b20906
+java:S1854";Remove this useless assignment to local variable "contato".(ÓëÜ³8êÊ¥‰3J$dbbd462f-f938-4dcd-9ceb-ca5444877d4f
+m	java:S106"+Replace this use of System.out by a logger.(ã°œ8Ûœ¤‰3J$a5101bb1-76bc-42ba-91e0-ee39d84c1a98
+m	java:S106"+Replace this use of System.out by a logger.(ÊÄ‚ğ8Üœ¤‰3J$e51af2af-2120-4088-ad65-3aa3218f2f1a
 u
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ƒÍ¦‰3J$b37f388a-8d69-4426-b468-cf3ace6bc64b
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ƒÍ¦‰3J$a25a12e8-abfa-4b00-b2bc-edab940e23bd
