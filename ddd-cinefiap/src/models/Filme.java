@@ -21,19 +21,21 @@ public class Filme {
 
     @Override
     public String toString() {
-        return "Filme{" +
-                "id=" + id +
-                ", nome='" + nome + '\'' +
-                ", duracao=" + duracao +
-                ", genero=" + genero +
-                ", classificacao=" + classificacao +
-                ", ano=" + ano +
-                ", capa='" + capa + '\'' +
-                ", diretor='" + diretor + '\'' +
-                ", elenco='" + elenco + '\'' +
-                ", descricao='" + descricao + '\'' +
-                ", avaliacao=" + avaliacao +
-                '}';
+        return "Filme:" +
+                "Id: " + id +
+                " | Nome: " + nome +
+                " | Duracao: " + duracao +
+                " | Genero: " + genero +
+                " | Classificacao: " + classificacao +
+                " | Ano: " + ano +
+                "\nCapa: " + capa +
+                " | Diretor: " + diretor +
+                " | Elenco: " + elenco +
+                " | Avaliacao: " + avaliacao +
+                " \nDescricao: '" + descricao +
+
+                "\n=======================================\n"
+                ;
     }
 
     public Long getId() {

@@ -8,6 +8,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class FilmeDao {
     private Connection conexao;
@@ -69,5 +71,154 @@ public class FilmeDao {
             throw new RuntimeException(e);
         }
         return filme;
+    }
+
+    //Método alterar
+    public void alterarFilme(Filme filme){
+        conexao = ConnectionFactory.obterConexao();
+        PreparedStatement comandoSQL = null;
+        try{
+            String sql = "update tbl_filme set tx_nome = ?, nr_duracao = ?, " +
+                    "tp_genero = ?, tp_classificacao = ?, nr_ano = ?, tx_capa = ?," +
+                    " tx_diretor = ? where id_filme = ?";
+            comandoSQL = conexao.prepareStatement(sql);
+
+            comandoSQL.setString(1, filme.getNome());
+            comandoSQL.setInt(2, filme.getDuracao());
+            comandoSQL.setString(3, filme.getGenero().toString());
+            comandoSQL.setString(4, filme.getClassificacao().toString());
+            comandoSQL.setInt(5, filme.getAno());
+            comandoSQL.setString(6, filme.getCapa());
+            comandoSQL.setString(7, filme.getDiretor());
+            comandoSQL.setString(8, filme.getElenco());
+            comandoSQL.setString(9, filme.getDescricao());
+            comandoSQL.setDouble(10, filme.getAvaliacao());
+            comandoSQL.setLong(11, filme.getId());
+            comandoSQL.executeUpdate();
+            comandoSQL.close();
+            conexao.close();
+
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+    }
+
+    //Método excluir
+
+    public void excluirFilme(int id){
+        conexao = ConnectionFactory.obterConexao();
+        PreparedStatement comandoSQL = null;
+        try{
+            String sql = "delete from tbl_filme where id_filme = ?";
+            comandoSQL = conexao.prepareStatement(sql);
+            comandoSQL.setLong(1, id);
+            comandoSQL.executeUpdate();
+            comandoSQL.close();
+            conexao.close();
+
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+    }
+
+    //Método listar
+    public List<Filme> listar(){
+        conexao = ConnectionFactory.obterConexao();
+        PreparedStatement ps = null;
+        List<Filme> filmes = new ArrayList<>();
+
+        try {
+            ps = conexao.prepareStatement("SELECT * from TBL_FILME order by tx_nome");
+            ResultSet rs = ps.executeQuery();
+            while (rs.next()){
+                Filme filme = new Filme();
+                filme.setId(rs.getLong(1));
+                filme.setNome(rs.getString(2));
+                filme.setDuracao(rs.getInt(3));
+                filme.setGenero(GeneroEnum.valueOf(rs.getString(4)));
+                filme.setClassificacao(ClassificacaoIndicativaEnum.valueOf(rs.getString(5)));
+                filme.setAno(rs.getInt(6));
+                filme.setCapa(rs.getString(7));
+                filme.setDiretor(rs.getString(8));
+                filme.setElenco(rs.getString(9));
+                filme.setDescricao(rs.getString(10));
+                filme.setAvaliacao(rs.getDouble(11));
+                filmes.add(filme);
+            }
+            ps.close();
+            conexao.close();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+        return filmes;
+    }
+
+    //Método buscar por Genero
+    public List<Filme> listarFilmesPorGenero(String genero){
+        conexao = ConnectionFactory.obterConexao();
+        PreparedStatement ps = null;
+        List<Filme> filmes = new ArrayList<>();
+
+        try {
+            ps = conexao.prepareStatement("SELECT * from TBL_FILME " +
+                    "where tp_genero = ? order by tx_nome");
+            ps.setString(1, genero);
+            ResultSet rs = ps.executeQuery();
+            while (rs.next()){
+                Filme filme = new Filme();
+                filme.setId(rs.getLong(1));
+                filme.setNome(rs.getString(2));
+                filme.setDuracao(rs.getInt(3));
+                filme.setGenero(GeneroEnum.valueOf(rs.getString(4)));
+                filme.setClassificacao(ClassificacaoIndicativaEnum.valueOf(rs.getString(5)));
+                filme.setAno(rs.getInt(6));
+                filme.setCapa(rs.getString(7));
+                filme.setDiretor(rs.getString(8));
+                filme.setElenco(rs.getString(9));
+                filme.setDescricao(rs.getString(10));
+                filme.setAvaliacao(rs.getDouble(11));
+                filmes.add(filme);
+            }
+            ps.close();
+            conexao.close();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+        return filmes;
+    }
+
+
+    //Método buscar por Genero
+    public List<Filme> listarFilmesPorCategoria(String classificacao){
+        conexao = ConnectionFactory.obterConexao();
+        PreparedStatement ps = null;
+        List<Filme> filmes = new ArrayList<>();
+
+        try {
+            ps = conexao.prepareStatement("SELECT * from TBL_FILME " +
+                    "where tp_classificacao = ? order by tx_nome");
+            ps.setString(1, classificacao);
+            ResultSet rs = ps.executeQuery();
+            while (rs.next()){
+                Filme filme = new Filme();
+                filme.setId(rs.getLong(1));
+                filme.setNome(rs.getString(2));
+                filme.setDuracao(rs.getInt(3));
+                filme.setGenero(GeneroEnum.valueOf(rs.getString(4)));
+                filme.setClassificacao(ClassificacaoIndicativaEnum.valueOf(rs.getString(5)));
+                filme.setAno(rs.getInt(6));
+                filme.setCapa(rs.getString(7));
+                filme.setDiretor(rs.getString(8));
+                filme.setElenco(rs.getString(9));
+                filme.setDescricao(rs.getString(10));
+                filme.setAvaliacao(rs.getDouble(11));
+                filmes.add(filme);
+            }
+            ps.close();
+            conexao.close();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+        return filmes;
     }
 }
