@@ -1,6 +1,7 @@
 package br.com.fiap.agenda.dao;
 
 import br.com.fiap.agenda.models.Contato;
+import br.com.fiap.agenda.models.Endereco;
 import enums.TipoContatoEnum;
 import oracle.jdbc.proxy.annotation.Pre;
 
@@ -20,8 +21,8 @@ public class ContatoDao {
         PreparedStatement comandoSQL = null;
         try{
             String sql = "INSERT INTO TBL_CONTATO (ID_CONTATO, nome_contato," +
-                    " celular_contato, email_contato, instagram, tipo) \n" +
-                    "VALUES (?, ?, ?, ?, ?, ?)";
+                    " celular_contato, email_contato, instagram, tipo, id_endereco) \n" +
+                    "VALUES (?, ?, ?, ?, ?, ?,?)";
             comandoSQL = conexao.prepareStatement(sql);
             comandoSQL.setInt(1, contato.getId());
             comandoSQL.setString(2, contato.getNome());
@@ -29,6 +30,7 @@ public class ContatoDao {
             comandoSQL.setString(4, contato.getEmail());
             comandoSQL.setString(5, contato.getInstagram());
             comandoSQL.setString(6, contato.getTipo().toString());
+            comandoSQL.setInt(7,contato.getEndereco().getId());
             comandoSQL.executeUpdate();
             comandoSQL.close();
             conexao.close();
@@ -82,6 +84,7 @@ public class ContatoDao {
         conexao = ConnectionFactory.obterConexao();
         PreparedStatement ps = null;
         Contato contato = new Contato();
+        EnderecoDao enderecoDao = new EnderecoDao();
         try {
             ps = conexao.prepareStatement("SELECT * from TBL_CONTATO " +
                     "WHERE ID_CONTATO = ?");
@@ -94,6 +97,10 @@ public class ContatoDao {
                 contato.setEmail(rs.getString(4));
                 contato.setInstagram(rs.getString(5));
                 contato.setTipo(TipoContatoEnum.valueOf(rs.getString(6)));
+                int codigo = rs.getInt(7);
+                Endereco endereco = new Endereco();
+                endereco = enderecoDao.buscarPorId(codigo);
+                contato.setEndereco(endereco);
             }
             ps.close();
             conexao.close();

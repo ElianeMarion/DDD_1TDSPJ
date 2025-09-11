@@ -33,3 +33,7 @@ _
 /src/br/com/fiap/agenda/tests/BuscarPorTIpo.java,6\5\651a64c730ca82109b44408a4dd589d15043dfdd
 _
 /src/br/com/fiap/agenda/tests/BuscarPorTipo.java,8\f\8f49a850bd0fcac5ce65f94040a034a2cf2fd8d0
+[
++src/br/com/fiap/agenda/dao/EnderecoDao.java,6\b\6b8c3f591ad3a081c93bbef9546f804c2da377f2
+[
++src/br/com/fiap/agenda/models/Endereco.java,b\b\bbcbef258a161762977890c6b0d30fe5b713dd52

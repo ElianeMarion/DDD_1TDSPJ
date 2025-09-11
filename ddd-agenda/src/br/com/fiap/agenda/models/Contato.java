@@ -10,6 +10,9 @@ public class Contato {
     private String email;
     private String instagram;
     private TipoContatoEnum tipo;
+    private Endereco endereco;
+
+
     @Override
     public String toString() {
         return "\nContato: " + id +
@@ -18,8 +21,18 @@ public class Contato {
                 "\nEmail: " + email +
                 "\nInstagram: " + instagram  +
                 "\nTipo do Contato: " + tipo +
+                "\nEndereço: " + endereco +
                 "\n===================================";
     }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
+    }
+
     public int getId() {
         return id;
     }
