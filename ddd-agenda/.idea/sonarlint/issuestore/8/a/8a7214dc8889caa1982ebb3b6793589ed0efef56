@@ -1,16 +1,17 @@
 
-	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥¢çÉ“3J$3a8bc78d-4cda-45ad-b469-bfe413f435b8
-	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦¢çÉ“3J$b2d0ecd8-f418-409f-bf40-5f90350f61ea
-	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨¢çÉ“3J$b2542391-332a-4178-b536-5a33962a374c
-	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$c2bb2d71-b1a2-4e6e-9336-1ddde3c1177c
-	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$72231da3-6352-42b8-b574-e114b8c06212
+	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥¢çÉ“3J$3a8bc78d-4cda-45ad-b469-bfe413f435b8
+	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦¢çÉ“3J$b2d0ecd8-f418-409f-bf40-5f90350f61ea
+	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨¢çÉ“3J$b2542391-332a-4178-b536-5a33962a374c
+	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$c2bb2d71-b1a2-4e6e-9336-1ddde3c1177c
+	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$72231da3-6352-42b8-b574-e114b8c06212
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áÁßç•3
 —
 java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8ö©÷É“3J$e35ca0c3-183a-475a-83c5-f6fd42c755e9
-
-java:S1854e"<Remove this useless assignment to local variable "endereco".(ı÷½·8É¤ùÉ“3J$595c5e11-1fb7-483d-a1a7-a14b97071bee
-b
-java:S6905x"Don't use the query "SELECT *".(Í“Æ£8Ø¢çÉ“3J$f8cb4c58-c2ad-4e10-a726-4f428e08ae0d
+€
+java:S1854š"<Remove this useless assignment to local variable "endereco".(ı÷½·8É¤ùÉ“3J$595c5e11-1fb7-483d-a1a7-a14b97071bee
 c
-java:S6905’"Don't use the query "SELECT *".(ÉÊÌ÷8İ¢çÉ“3J$e5d129ae-79d3-496b-8123-ab3be9192bc5
-…
-java:S1128"=Remove this unused import 'oracle.jdbc.proxy.annotation.Pre'.(é÷¥Ûüÿÿÿÿ8Šª÷É“3J$47158843-0499-44f3-ae14-0ff6e38544f1
+java:S6905ã"Don't use the query "SELECT *".(Í“Æ£8Ø¢çÉ“3J$f8cb4c58-c2ad-4e10-a726-4f428e08ae0d
+c
+java:S6905ı"Don't use the query "SELECT *".(ÉÊÌ÷8İ¢çÉ“3J$e5d129ae-79d3-496b-8123-ab3be9192bc5
+r
+java:S6912I"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(ÊŠ¢8¨Äßç•3

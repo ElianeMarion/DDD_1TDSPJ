@@ -10,5 +10,3 @@ L	java:S106!"+Replace this use of System.out by a logger.(ğÕÜøúÿÿÿÿ8¥©œÊ“3
 C	java:S131$""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8¦©œÊ“3
 G	java:S106)"+Replace this use of System.out by a logger.(²öÔı8¦©œÊ“3
 L	java:S106/"+Replace this use of System.out by a logger.(€ÉÀÑûÿÿÿÿ8§©œÊ“3
-e
-java:S1128"CRemove this unused import 'com.sun.tools.jconsole.JConsoleContext'.(ÕÆüéşÿÿÿÿ8¨©œÊ“3
