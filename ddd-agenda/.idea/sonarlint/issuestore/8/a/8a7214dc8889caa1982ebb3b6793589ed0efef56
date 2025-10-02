@@ -1,17 +1,17 @@
 
-	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥¢çÉ“3J$3a8bc78d-4cda-45ad-b469-bfe413f435b8
-	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦¢çÉ“3J$b2d0ecd8-f418-409f-bf40-5f90350f61ea
-	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨¢çÉ“3J$b2542391-332a-4178-b536-5a33962a374c
-	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$c2bb2d71-b1a2-4e6e-9336-1ddde3c1177c
-	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$72231da3-6352-42b8-b574-e114b8c06212
-h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áÁßç•3
+	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥¢çÉ“3J$1061a08e-43ca-406a-80cc-894c49c1952a
+	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦¢çÉ“3J$379ac316-de93-499a-8064-92d96d70a6b8
+	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨¢çÉ“3J$05e12897-175d-4c21-9cf3-de23966d0208
+	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$81a4be2a-6a26-41ae-909c-6e7613144e01
+	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©¢çÉ“3J$094ced79-cc6a-43b8-a826-127befd5b4a0
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áÁßç•3J$4f030d0a-6f73-4147-b0e5-6768a9f836bb
 —
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8ö©÷É“3J$e35ca0c3-183a-475a-83c5-f6fd42c755e9
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÙÈğıÿÿÿÿ8ö©÷É“3J$a0c48df5-510b-4271-8dd2-028646804bd1
 €
-java:S1854š"<Remove this useless assignment to local variable "endereco".(ı÷½·8É¤ùÉ“3J$595c5e11-1fb7-483d-a1a7-a14b97071bee
+java:S1854š"<Remove this useless assignment to local variable "endereco".(ı÷½·8É¤ùÉ“3J$cadbf7cf-be8a-4a04-8c1d-00bc31eed7c3
 c
-java:S6905ã"Don't use the query "SELECT *".(Í“Æ£8Ø¢çÉ“3J$f8cb4c58-c2ad-4e10-a726-4f428e08ae0d
+java:S6905ã"Don't use the query "SELECT *".(Í“Æ£8Ø¢çÉ“3J$a72779ba-ed48-46f3-be1f-a3759bf0d293
 c
-java:S6905ı"Don't use the query "SELECT *".(ÉÊÌ÷8İ¢çÉ“3J$e5d129ae-79d3-496b-8123-ab3be9192bc5
-r
-java:S6912I"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(ÊŠ¢8¨Äßç•3
+java:S6905ı"Don't use the query "SELECT *".(ÉÊÌ÷8İ¢çÉ“3J$9680e39e-be19-47f1-90c0-391028bd8938
+˜
+java:S6912I"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(ÊŠ¢8¨Äßç•3J$46a53c54-e4c9-4936-9864-23dd7a768065

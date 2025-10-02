@@ -1,0 +1,8 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$ad851809-156f-4293-bd53-0e0b4f5fd015
+v
+java:S1118":Add a private constructor to hide the implicit public one.(¼ÚŠJ$a8df4cf6-4e8b-440d-982e-4ffe952f1b37
+i
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄéJ$29d5acf8-066f-407a-b851-1d0fdaba1ef4
+r
+java:S6437"6Revoke and change this password, as it is compromised.(•™‹J$d50bf90e-0785-472e-8d29-643f4986839b

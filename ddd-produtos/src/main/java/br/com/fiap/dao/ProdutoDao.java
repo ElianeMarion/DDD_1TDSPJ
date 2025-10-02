@@ -37,6 +37,7 @@ public class ProdutoDao {
 
     public void alterar(Produto produto){
         PreparedStatement comandoSql = null;
+        this.conexao = ConnectionFactory.obterConexao();
         try{
             String sql = "update tbl_produto set nome = ?, preco=?, quantidade=?" +
                     " where codigo=?";

@@ -1,14 +1,14 @@
 
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ØÅé˜şÿÿÿÿ8İòòÉ“3J$801d62bf-af4b-4723-a71d-68089ff18b2c
+’
+java:S2095j"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®ß—ÿ8İòòÉ“3J$e45e77a7-70e9-4430-bce9-3b66fcaba8b9
+’
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(éÇ’Ï8ãŒôÈ“3J$c4ec7703-c3b1-480b-bce5-9a63364b5b86
 ’
 java:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦ãØû8İòòÉ“3J$528f9ffe-da12-473d-b768-ee7b8d65aba1
 —
 java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÅÀ¥˜ùÿÿÿÿ8İòòÉ“3J$8b0bcebd-cc9f-405f-9f75-766fe13bfa15
-’
-java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(éÇ’Ï8ãŒôÈ“3J$c4ec7703-c3b1-480b-bce5-9a63364b5b86
-’
-java:S2095j"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®ß—ÿ8İòòÉ“3J$e45e77a7-70e9-4430-bce9-3b66fcaba8b9
-—
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ØÅé˜şÿÿÿÿ8İòòÉ“3J$801d62bf-af4b-4723-a71d-68089ff18b2c
 b
 java:S6905S"Don't use the query "SELECT *".(¦ãØû8ñŒôÈ“3J$4badebb4-62c0-4b5f-b480-2f561259cafe
 b
