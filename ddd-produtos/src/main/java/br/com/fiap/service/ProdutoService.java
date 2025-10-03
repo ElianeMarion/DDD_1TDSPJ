@@ -1,6 +1,8 @@
 package br.com.fiap.service;
 
 import br.com.fiap.dao.ProdutoDao;
+import br.com.fiap.dto.ProdutoRequestDto;
+import br.com.fiap.dto.ProdutoResponseDto;
 import br.com.fiap.models.Produto;
 
 import java.util.List;
@@ -13,11 +15,11 @@ public class ProdutoService {
         return produtos;
     }
 
-    public Produto buscarPorId(int id){
+    public ProdutoResponseDto buscarPorId(int id){
         return produtoDao.buscarPorId(id);
     }
 
-    public void cadastrar(Produto produto) {
+    public void cadastrar(ProdutoRequestDto produto) {
         produtoDao.inserir(produto);
     }
 

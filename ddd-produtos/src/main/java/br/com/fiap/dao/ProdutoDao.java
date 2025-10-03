@@ -1,5 +1,7 @@
 package br.com.fiap.dao;
 
+import br.com.fiap.dto.ProdutoRequestDto;
+import br.com.fiap.dto.ProdutoResponseDto;
 import br.com.fiap.models.Produto;
 
 import java.sql.Connection;
@@ -16,7 +18,7 @@ public class ProdutoDao {
     public ProdutoDao() {
         this.conexao = ConnectionFactory.obterConexao();
     }
-    public void inserir(Produto produto){
+    public void inserir(ProdutoRequestDto produto){
         PreparedStatement comandoSql = null;
         try{
             String sql = "insert into tbl_produto(codigo, nome, preco, quantidade)" +
@@ -73,7 +75,7 @@ public class ProdutoDao {
     }
 
     //Buscar por id => SELECT * FROM TBL_PRODUTO WHERE ID_PRODUTO = ?
-    public Produto buscarPorId(int id){
+    public ProdutoResponseDto buscarPorId(int id){
         Produto produto = new Produto();
         PreparedStatement comandoSql = null;
         try{
@@ -85,14 +87,14 @@ public class ProdutoDao {
                 produto.setNome(rs.getString(2));
                 produto.setPreco(rs.getDouble(3));
                 produto.setQuantidade(rs.getInt(4));
-
             }
             conexao.close();
             comandoSql.close();
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-        return produto;
+        ProdutoResponseDto dto = new ProdutoResponseDto();
+        return dto.convertToDto(produto);
     }
 
     //Listar => SELECT * FROM TBL_ENDERECO
