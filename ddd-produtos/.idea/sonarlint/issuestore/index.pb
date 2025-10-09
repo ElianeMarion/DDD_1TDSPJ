@@ -11,3 +11,15 @@ O
 src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
 ]
 -src/main/java/br/com/fiap/models/Produto.java,f\b\fb241e1b484bedd6d08270b5f02af044d9c043b9
+]
+-src/main/java/br/com/fiap/models/Usuario.java,5\7\57a95b114526132958aeb63c06a2ef6abff1c1f2
+]
+-src/main/java/br/com/fiap/dao/UsuarioDao.java,3\4\346e06860dcf9590756d8a8a52cccaa47bf8a2f8
+d
+4src/main/java/br/com/fiap/dto/UsuarioRequestDto.java,c\6\c61723a52df92f0be27f3f43aaef905b530109ff
+e
+5src/main/java/br/com/fiap/service/UsuarioService.java,8\b\8bd31e219bce9613f56a318b48c5702cabc2f806
+e
+5src/main/java/br/com/fiap/dto/UsuarioResponseDto.java,5\0\50c8de87a51947b41eeb526fdbc912eaa032bdc8
+g
+7src/main/java/br/com/fiap/resource/UsuarioResource.java,5\4\541bc6f0af3a73edebfbbc8a827f6fe1f39574a0
