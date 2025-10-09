@@ -23,3 +23,9 @@ e
 5src/main/java/br/com/fiap/dto/UsuarioResponseDto.java,5\0\50c8de87a51947b41eeb526fdbc912eaa032bdc8
 g
 7src/main/java/br/com/fiap/resource/UsuarioResource.java,5\4\541bc6f0af3a73edebfbbc8a827f6fe1f39574a0
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+d
+4src/main/java/br/com/fiap/security/PasswordHash.java,a\8\a8429f49f4bc2d1d13ea353bd7ac4bca9d79e638
+c
+3src/main/java/br/com/fiap/security/TesteBCrypt.java,1\2\125e48eb991cf9d9f91793dad022b69cd8ddd3f0

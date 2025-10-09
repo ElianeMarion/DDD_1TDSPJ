@@ -1,6 +1,7 @@
 package br.com.fiap.dao;
 
 import br.com.fiap.models.Usuario;
+import br.com.fiap.security.PasswordHash;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -19,11 +20,15 @@ public class UsuarioDao {
 
         try (Connection connection = ConnectionFactory.obterConexao();
              PreparedStatement ps = connection.prepareStatement(sql)) {
+
+            String senhaCriptografada = PasswordHash.hashPassword(usuario.getSenha());
+
             ps.setString(1, usuario.getNome());
             ps.setString(2, usuario.getLogin());
-            ps.setString(3, usuario.getSenha());
+            ps.setString(3, senhaCriptografada);
             ps.executeUpdate();
         }
+
     }
     public Usuario buscar(String login) throws SQLException {
         String sql = "SELECT * FROM tb_usuario WHERE login = ? ";
@@ -53,11 +58,14 @@ public class UsuarioDao {
 
             ps.setString(1, usuario.getLogin());
             ResultSet rs = ps.executeQuery();
-
             if (rs.next()) {
                 String senhaCriptografada = rs.getString("senha");
-            }
-            return "";
+                if(PasswordHash.verificarSenha(usuario.getSenha(), senhaCriptografada))
+                    return "Usuário logado com sucesso";
+                else
+                    return "Usuário e/ou senha inválidos";
+            }else
+                return "Usuário não encontrado.";
         }
     }
 }
