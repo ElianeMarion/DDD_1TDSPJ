@@ -1,6 +1,7 @@
 package br.com.fiap.service;
 
 import br.com.fiap.dao.UsuarioDao;
+import br.com.fiap.dto.UsuarioLoginDto;
 import br.com.fiap.dto.UsuarioRequestDto;
 import br.com.fiap.dto.UsuarioResponseDto;
 
@@ -17,4 +18,10 @@ public class UsuarioService {
         UsuarioResponseDto dto = new UsuarioResponseDto();
         return dto.convertToUsuarioResponseDto(usuarioDao.buscar(login));
     }
+
+    public String autenticarUsuario(UsuarioLoginDto dto) throws SQLException {
+        return usuarioDao.autenticarUsuario(dto.convertToUsuario(dto));
+    }
+
+
 }

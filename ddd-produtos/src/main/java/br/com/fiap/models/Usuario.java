@@ -49,9 +49,9 @@ public class Usuario {
         this.senha = senha;
     }
 
-    public Usuario(String nome, String login) {
-        this.nome = nome;
+    public Usuario(String login, String senha) {
         this.login = login;
+        this.senha = senha;
     }
 
     public Usuario(int id, String nome, String login, String senha) {
